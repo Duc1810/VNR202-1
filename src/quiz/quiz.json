@@ -1,0 +1,672 @@
+[
+  {
+    "id": 1,
+    "question": "Nhà nước xã hội chủ nghĩa quản lý mọi mặt của đời sống xã hội bằng cách nào?",
+    "options": {
+      "a": "Đường lối chính sách.",
+      "b": "Hiến pháp, pháp luật.",
+      "c": "Tuyên truyền giáo dục.",
+      "d": "Tất cả các phương án."
+    },
+    "answer": "Tất cả các phương án."
+  },
+  {
+    "id": 2,
+    "question": "Dân chủ xã hội chủ nghĩa đầu tiên xuất hiện ở nước nào?",
+    "options": {
+      "a": "Pháp",
+      "b": "Đức",
+      "c": "Nga",
+      "d": "Liên xô"
+    },
+    "answer": "Liên xô"
+  },
+  {
+    "id": 3,
+    "question": "Công cuộc đổi mới xã hội chủ nghĩa diễn ra ở nước nào sau đây:",
+    "options": {
+      "a": "Cu Ba",
+      "b": "Trung Quốc",
+      "c": "Việt Nam"
+    },
+    "answer": "Việt Nam"
+  },
+  {
+    "id": 4,
+    "question": "Trong nhà nước xã hội chủ nghĩa Việt Nam, cơ quan nào là cơ quan quyền lực nhất?",
+    "options": {
+      "a": "Chính phủ",
+      "b": "Tòa án nhân dân",
+      "c": "Quốc hội",
+      "d": "Viện kiểm sát nhân dân"
+    },
+    "answer": "Quốc hội"
+  },
+  {
+    "id": 5,
+    "question": "Đảng Cộng sản Việt Nam chủ trương xây dựng chế độ dân chủ xã hội chủ nghĩa, mở rộng và phát huy quyền làm chủ của nhân dân dựa trên tư tưởng của ai?",
+    "options": {
+      "a": "V.I.Lenin",
+      "b": "Ph.Ăngghen",
+      "c": "C. Mác",
+      "d": "Chủ tịch Hồ Chí Minh"
+    },
+    "answer": "Chủ tịch Hồ Chí Minh"
+  },
+  {
+    "id": 6,
+    "question": "Điền từ vào chỗ trống (...) trong câu nói của Chủ tịch Hồ Chí Minh: \" Nước ta là nước dân chủ, nghĩa là nước nhà do nhân dân làm chủ. Nhân dân có quyền lợi làm chủ, thì phải có (...) làm tròn bổn phận công dân\" .",
+    "options": {
+      "a": "Khả năng.",
+      "b": "Nghĩa vụ.",
+      "c": "Quyết tâm.",
+      "d": "Nguyện vọng."
+    },
+    "answer": "Nghĩa vụ."
+  },
+  {
+    "id": 7,
+    "question": "Chế độ dân chủ nhân dân ở Việt Nam được xác lập trong thời gian nào?",
+    "options": {
+      "A": "Sau Cách mạng Tháng Tám năm 1945",
+      "B": "Sau khi đất nước đổi tên thành Cộng hoà xã hội chủ nghĩa Việt Nam năm 1976",
+      "C": "Sau Đại hội VI năm 1986",
+      "D": "Sau khi kháng chiến chống thực dân Pháp thành công năm 1954 tại miền Bắc"
+    },
+    "answer": "Sau Cách mạng Tháng Tám năm 1945"
+  },
+  {
+    "id": 8,
+    "question": "Hình thức dân chủ gián tiếp được thực hiện như thế nào trong việc thực thi dân chủ ở nước ta hiện nay?",
+    "options": {
+      "A": "Nhân dân trực tiếp thực hiện quyền làm chủ của mình đối với các hoạt động của nhà nước và xã hội",
+      "B": "Thông qua hình thức trưng cầu dân ý trong nhân dân",
+      "C": "Nhân dân được bàn bạc các công việc của nhà nước và cộng đồng dân cư",
+      "D": "Nhân dân uỷ thác quyền lực của mình cho các đại biểu do mình bầu ra"
+    },
+    "answer": "Nhân dân uỷ thác quyền lực của mình cho các đại biểu do mình bầu ra"
+  },
+  {
+    "id": 9,
+    "question": "Bản chất tốt đẹp và tính ưu việt của nền dân chủ xã hội chủ nghĩa ở Việt Nam được thể hiện ở điểm nào?",
+    "options": {
+      "A": "Đề cao tinh thần thượng tôn pháp luật",
+      "B": "Lấy dân làm gốc",
+      "C": "Đường lối lãnh đạo của Đảng",
+      "D": "Chính sách pháp luật của Nhà nước"
+    },
+    "answer": "Lấy dân làm gốc"
+  },
+  {
+    "id": 10,
+    "question": "Nguyên tắc tổ chức và hoạt động của Nhà nước pháp quyền xã hội chủ nghĩa Việt Nam là gì?",
+    "options": {
+      "A": "Nguyên tắc kiểm tra giám sát",
+      "B": "Nguyên tắc tập trung dân chủ",
+      "C": "Nguyên tắc dân chủ và thống nhất quyền lực",
+      "D": "Nguyên tắc tổ chức xây dựng"
+    },
+    "answer": "Nguyên tắc tập trung dân chủ"
+  },
+  {
+    "id": 11,
+    "question": "Phương châm thực hiện quy chế dân chủ xã hội chủ nghĩa ở Việt Nam là gì?",
+    "options": {
+      "A": "Dân bàn, dân làm, dân biết, dân kiểm tra",
+      "B": "Dân biết, dân làm, dân bàn, dân kiểm tra",
+      "C": "Dân biết, dân bàn, dân làm, dân kiểm tra",
+      "D": "Dân biết, dân bàn, dân kiểm tra, dân làm"
+    },
+    "answer": "Dân biết, dân bàn, dân làm, dân kiểm tra"
+  },
+  {
+    "id": 12,
+    "question": "Nền dân chủ nào xuất hiện đầu tiên trong lịch sử nhân loại?",
+    "options": {
+      "A": "Nền dân chủ chủ nô",
+      "B": "Nền dân chủ tư sản",
+      "C": "Nền dân chủ xã hội chủ nghĩa",
+      "D": "Không có câu trả lời đúng"
+    },
+    "answer": "Nền dân chủ chủ nô"
+  },
+  {
+    "id": 13,
+    "question": "Căn cứ vào tính chất của quyền lực nhà nước, chức năng của nhà nước xã hội chủ nghĩa được chia thành:",
+    "options": {
+      "A": "Chức năng đối nội và Chức năng đối ngoại",
+      "B": "Chức năng xây dựng và đối nội, đối ngoại",
+      "C": "Chức năng giai cấp và chức năng xã hội",
+      "D": "Chức năng chính trị, kinh tế, văn hóa, xã hội"
+    },
+    "answer": "Chức năng giai cấp và chức năng xã hội"
+  },
+  {
+    "id": 14,
+    "question": "Bản chất dân chủ xã hội chủ nghĩa ở Việt Nam được thực hiện thông qua các hình thức nào?",
+    "options": {
+      "A": "Hình thức dân chủ gián tiếp và dân chủ trực tiếp",
+      "B": "Hình thức dân chủ gián tiếp và dân chủ đại diện",
+      "C": "Hình thức dân chủ trực tiếp, gián tiếp và đại diện",
+      "D": "Không có câu trả lời đúng"
+    },
+    "answer": "Hình thức dân chủ gián tiếp và dân chủ trực tiếp"
+  },
+  {
+    "id": 15,
+    "question": "Bản chất dân chủ xã hội chủ nghĩa ở Việt Nam được thực hiện thông qua các hình thức nào?",
+    "options": {
+      "A": "Hình thức dân chủ gián tiếp và dân chủ trực tiếp",
+      "B": "Hình thức dân chủ gián tiếp và dân chủ đại diện",
+      "C": "Hình thức dân chủ trực tiếp, gián tiếp và đại diện",
+      "D": "Không có câu trả lời đúng"
+    },
+    "answer": "Hình thức dân chủ gián tiếp và dân chủ trực tiếp"
+  },
+  {
+    "id": 16,
+    "question": "Dưới góc độ nào dân chủ được xem là một thành tựu văn hoá, một quá trình sáng tạo văn hoá, thể hiện khát vọng tự do được sáng tạo và phát triển của con người?",
+    "options": {
+      "A": "Bản chất tư tưởng - văn hóa - xã hội",
+      "B": "Bản chất kinh tế",
+      "C": "Bản chất chính trị",
+      "D": "Tất cả đều đúng"
+    },
+    "answer": "Bản chất tư tưởng - văn hóa - xã hội"
+  },
+  {
+    "id": 17,
+    "question": "Nền dân chủ xã hội chủ nghĩa là nền dân chủ:",
+    "options": {
+      "A": "Mọi quyền lực thuộc về nhân dân, dân là chủ và dân làm chủ",
+      "B": "Dân chủ và pháp luật nằm trong sự thống nhất biện chứng",
+      "C": "Được thực hiện bằng nhà nước pháp quyền xã hội chủ nghĩa đặt dưới sự lãnh đạo của Đảng Cộng sản",
+      "D": "Tất cả đều đúng"
+    },
+    "answer": "Tất cả đều đúng"
+  },
+  {
+    "id": 18,
+    "question": "Xét về bản chất chính trị, đâu là nền dân chủ vừa có bản chất giai cấp công nhân, vừa có tính nhân dân rộng rãi, tính dân tộc sâu sắc?",
+    "options": {
+      "A": "Dân chủ chủ nô",
+      "B": "Dân chủ tư sản",
+      "C": "Dân chủ xã hội chủ nghĩa",
+      "D": "Cả 3 nền dân chủ"
+    },
+    "answer": "Dân chủ xã hội chủ nghĩa"
+  },
+  {
+    "id": 19,
+    "question": "Thực hiện chế độ công hữu về tư liệu sản xuất chủ yếu và thực hiện chế độ phân phối lợi ích theo kết quả lao động là chủ yếu. Đây là bản chất kinh tế của nền dân chủ nào?",
+    "options": {
+      "A": "Dân chủ nguyên thủy",
+      "B": "Dân chủ chủ nô",
+      "C": "Dân chủ tư sản",
+      "D": "Dân chủ xã hội chủ nghĩa"
+    },
+    "answer": "Dân chủ xã hội chủ nghĩa"
+  },
+  {
+    "id": 20,
+    "question": "Nền dân chủ xã hội chủ nghĩa là nền dân chủ cao hơn về chất so với nền dân chủ tư sản ở điểm nào?",
+    "options": {
+      "A": "Mọi quyền lực thuộc về nhân dân, dân là chủ và dân làm chủ",
+      "B": "Dân chủ và pháp luật nằm trong sự thống nhất biện chứng",
+      "C": "Được thực hiện bằng nhà nước pháp quyền xã hội chủ nghĩa đặt dưới sự lãnh đạo của Đảng Cộng sản",
+      "D": "Tất cả đều đúng"
+    },
+    "answer": "Tất cả đều đúng"
+  },
+  {
+    "id": 21,
+    "question": "Sự khác biệt của nhà nước pháp quyền xã hội chủ nghĩa ở Việt Nam so với các nhà nước pháp quyền khác là gì?",
+    "options": {
+      "A": "Mang bản chất giai cấp công nhân, phục vụ lợi ích cho nhân dân",
+      "B": "Nhà nước là công cụ chủ yếu để Đảng Cộng sản Việt Nam định hướng đi lên chủ nghĩa xã hội",
+      "C": "Mang bản chất giai cấp nông dân, phục vụ lợi ích cho nhân dân",
+      "D": "Mang bản chất giai cấp công nhân, phục vụ lợi ích cho nhân dân; Nhà nước là công cụ chủ yếu để Đảng Cộng sản Việt Nam định hướng đi lên chủ nghĩa xã hội"
+    },
+    "answer": "Mang bản chất giai cấp công nhân, phục vụ lợi ích cho nhân dân; Nhà nước là công cụ chủ yếu để Đảng Cộng sản Việt Nam định hướng đi lên chủ nghĩa xã hội"
+  },
+  {
+    "id": 22,
+    "question": "Sự khác biệt của nhà nước pháp quyền xã hội chủ nghĩa ở Việt Nam so với các nhà nước pháp quyền khác là gì?",
+    "options": {
+      "A": "Mang bản chất giai cấp công nhân, phục vụ lợi ích cho nhân dân",
+      "B": "Nhà nước là công cụ chủ yếu để Đảng Cộng sản Việt Nam định hướng đi lên chủ nghĩa xã hội",
+      "C": "Mang bản chất giai cấp nông dân, phục vụ lợi ích cho nhân dân",
+      "D": "Mang bản chất giai cấp công nhân, phục vụ lợi ích cho nhân dân; Nhà nước là công cụ chủ yếu để Đảng Cộng sản Việt Nam định hướng đi lên chủ nghĩa xã hội"
+    },
+    "answer": "Mang bản chất giai cấp công nhân, phục vụ lợi ích cho nhân dân; Nhà nước là công cụ chủ yếu để Đảng Cộng sản Việt Nam định hướng đi lên chủ nghĩa xã hội"
+  },
+  {
+    "id": 23,
+    "question": "Nhà nước xã hội chủ nghĩa là kiểu nhà nước mới, có bản chất khác với bản chất của các kiểu nhà nước bóc lột trong lịch sử. Tính ưu việt về mặt bản chất của nhà nước xã hội chủ nghĩa được thể hiện như thế nào?",
+    "options": {
+      "A": "Nhà nước xã hội chủ nghĩa mang bản chất của giai cấp công nhân, giai cấp có lợi ích phù hợp với lợi ích chung của quần chúng nhân dân lao động",
+      "B": "Bản chất của nhà nước xã hội chủ nghĩa chịu sự quy định của cơ sở kinh tế của xã hội xã hội chủ nghĩa, đó là chế độ sở hữu xã hội về tư liệu sản xuất chủ yếu",
+      "C": "Nhà nước xã hội chủ nghĩa được xây dựng trên nền tảng tinh thần là lý luận của chủ nghĩa Mác - Lênin và những giá trị văn hóa tiên tiến, tiến bộ của nhân loại, đồng thời mang những bản sắc riêng của dân tộc",
+      "D": "Tất cả đều đúng"
+    },
+    "answer": "Tất cả đều đúng"
+  },
+  {
+    "id": 24,
+    "question": "V.I.Lênin cho rằng, giai cấp vô sản sau khi giành được chính quyền, xác lập địa vị thống trị cho đại đa số nhân dân lao động, thì vấn đề quan trọng không chỉ là trấn áp lại sự phản kháng của giai cấp bóc lột, mà điều quan trọng hơn cả là:",
+    "options": {
+      "A": "Chính quyền mới tạo ra được năng suất sản xuất cao hơn chế độ xã hội cũ, nhờ đó mang lại cuộc sống tốt đẹp hơn cho đại đa số các giai cấp, tầng lớp nhân dân lao động",
+      "B": "Là sự thống trị của đa số đối với thiểu số giai cấp bóc lột nhằm giải phóng giai cấp mình và giải phóng tất cả các tầng lớp nhân dân lao động khác trong xã hội",
+      "C": "Mang lại cuộc sống tốt đẹp hơn cho đại đa số các giai cấp",
+      "D": "Là sự thống trị của đa số đối với tất cả các giai cấp, tầng lớp nhân dân lao động trong xã hội nhằm bảo vệ và duy trì địa vị của mình"
+    },
+    "answer": "Chính quyền mới tạo ra được năng suất sản xuất cao hơn chế độ xã hội cũ, nhờ đó mang lại cuộc sống tốt đẹp hơn cho đại đa số các giai cấp, tầng lớp nhân dân lao động"
+  },
+  {
+    "id": 25,
+    "question": "Theo quan điểm của chủ nghĩa Mác - Lênin xét trên phương diện chế độ xã hội và trong lĩnh vực chính trị, dân chủ là:",
+    "options": {
+      "A": "Một nguyên tắc - nguyên tắc dân chủ",
+      "B": "Một hình thức hay hình thái nhà nước, là chính thể dân chủ hay chế độ dân chủ.",
+      "C": "Sản phẩm và là thành quả của quá trình đấu tranh giai cấp",
+      "D": "Không có câu trả lới đúng"
+    },
+    "answer": "Một hình thức hay hình thái nhà nước, là chính thể dân chủ hay chế độ dân chủ."
+  },
+  {
+    "id": 26,
+    "question": "Nhà nước xã hội chủ nghĩa thực hiện chức năng trấn áp đối với giai cấp và đối tượng nào?",
+    "options": {
+      "A": "Nhân dân và những phần tử chống đối để bảo vệ thành quả cách mạng, giữ vững an ninh chính trị, tạo điều kiện thuận lợi cho sự phát triển kinh tế - xã hội",
+      "B": "Các giai cấp, tầng lớp để bảo vệ thành quả cách mạng, giữ vững an ninh chính trị, tạo điều kiện thuận lợi cho sự phát triển kinh tế - xã hội",
+      "C": "Giai cấp bóc lột đã bị lật đổ và những phần tử chống đối để bảo vệ thành quả cách mạng, giữ vững an ninh chính trị, tạo điều kiện thuận lợi cho sự phát triển kinh tế - xã hội",
+      "D": "Những phần tử chống đối để bảo vệ thành quả cách mạng, giữ vững an ninh chính trị, tạo điều kiện thuận lợi cho sự phát triển kinh tế - xã hội"
+    },
+    "answer": "Giai cấp bóc lột đã bị lật đổ và những phần tử chống đối để bảo vệ thành quả cách mạng, giữ vững an ninh chính trị, tạo điều kiện thuận lợi cho sự phát triển kinh tế - xã hội"
+  },
+  {
+    "id": 27,
+    "question": "Nền dân chủ vô sản hay còn gọi là nền dân chủ xã hội chủ nghĩa chính thức được xác lập khi nào?",
+    "options": {
+      "A": "Thực tiễn đấu tranh giai cấp ở Pháp và Công xã Pari năm 1871",
+      "B": "Cách mạng Tháng Mười Nga thành công với sự ra đời của nhà nước xã hội chủ nghĩa đầu tiên trên thế giới (1917)",
+      "C": "Chủ nghĩa Mác - Lênin với tư cách cơ sở lý luận tổ chức, tiến hành cách mạng và xây dựng nhà nước của giai cấp công nhân",
+      "D": "Không có câu trả lời đúng"
+    },
+    "answer": "B. Cách mạng Tháng Mười Nga thành công với sự ra đời của nhà nước xã hội chủ nghĩa đầu tiên trên thế giới (1917)"
+  },
+  {
+    "id": 28,
+    "question": "Đâu là một trong năm đặc trưng cơ bản của chủ nghĩa xã hội ở Việt Nam được đề cập trong Văn kiện Đại hội đại biểu toàn quốc lần thứ XI của Đảng Cộng sản Việt Nam?",
+    "options": {
+      "A": "Dân giàu, nước mạnh, dân chủ, văn minh",
+      "B": "Dân giàu, nước mạnh, con người có cuộc sống ấm no",
+      "C": "Do nhân dân làm chủ",
+      "D": "Nhà nước pháp quyền xã hội chủ nghĩa, nhà nước của nhân dân lao động"
+    },
+    "answer": "C. Do nhân dân làm chủ"
+  },
+  {
+    "id": 29,
+    "question": "Chế độ dân chủ nhân dân ở nước ta được xác lập khi nào?",
+    "options": {
+      "A": "Từ khi cách mạng tháng Tám năm 1945 thành công",
+      "B": "Từ sau chiến thắng Điện Biên Phủ 1954",
+      "C": "Ngay sau khi thống nhất đất nước vào năm 1975",
+      "D": "Từ khi tiến hành đổi mới vào năm 1986"
+    },
+    "answer": "A. Từ khi cách mạng tháng Tám năm 1945 thành công"
+  },
+  {
+    "id": 30,
+    "question": "Bản chất dân chủ của chế độ nước ta hiện nay được hiểu như thế nào?",
+    "options": {
+      "A": "Chế độ ta là do nhân dân làm chủ, quyền lực thuộc về nhân dân",
+      "B": "Chế độ ta là do Đảng Cộng sản Việt Nam làm chủ, là đại diện ý chí, nguyện vọng của nhân dân",
+      "C": "Chế độ ta là do giai cấp công nhân làm chủ, quyền lực thuộc ve giai cấp công nhân",
+      "D": "Chế độ ta là do cá nhân làm chủ, được hiện thực hóa thông qua vai trò làm"
+    },
+    "answer": "A. Chế độ ta là do nhân dân làm chủ, quyền lực thuộc về nhân dân"
+  },
+  {
+    "id": 31,
+    "question": "Trong cách mạng xã hội chủ nghĩa, giai cấp công nhân phải liên minh được với giai cấp nông dân và các tầng lớp nhân dân lao động khác trong giai đoạn nào? Lựa chọn 2 đáp án đúng.",
+    "options": {
+      "A": "Giai đoạn giành chính quyền",
+      "B": "Giai đoạn xây dựng chế độ xã hội mới",
+      "C": "Giai đoạn đấu tranh đòi các quyền tự do, dân chủ",
+      "D": "Giai đoạn xóa bỏ giai cấp sau khi xây dựng thành công chủ nghĩa xã hội"
+    },
+    "answer": "A. Giai đoạn giành chính quyền\nB. Giai đoạn xây dựng chế độ xã hội mới"
+  },
+  {
+    "id": 32,
+    "question": "Bản chất dân chủ xã hội chủ nghĩa ở Việt Nam được thực hiện thông qua hình thức nào?",
+    "options": {
+      "A": "Hình thức dân chủ trực tiếp",
+      "B": "Hình thức dân chủ gián tiếp",
+      "C": "Hình thức dân chủ đại nghị",
+      "D": "Hình thức dân chủ công khai"
+    },
+    "answer": "A. Hình thức dân chủ trực tiếp\nB. Hình thức dân chủ gián tiếp"
+  },
+  {
+    "id": 33,
+    "question": "Hình thức dân chủ nào ở Việt Nam mà thông qua nó, người dân bằng hành động của mình thực hiện quyền làm chủ nhà nước và xã hội, không thông qua chủ thể trung gian?",
+    "options": {
+      "A": "Hình thức dân chủ trực tiếp",
+      "B": "Hình thức dân chủ gián tiếp",
+      "C": "Hình thức dân chủ đại nghị",
+      "D": "Hình thức dân chủ công khai"
+    },
+    "answer": "A. Hình thức dân chủ trực tiếp"
+  },
+  {
+    "id": 34,
+    "question": "Ở nước ta, nhân dân có quyền bầu ra những người đại diện cho mình để thực thi quyền làm chủ, quyền đó gọi là gì?",
+    "options": {
+      "A": "Quyền bãi miễn những đại biểu không xứng đáng",
+      "B": "Quyền tự mình tham gia trở thành đại biểu không qua bầu cử",
+      "C": "Quyền giải tán hệ thống chính trị",
+      "D": "Quyền tự do ngôn luận"
+    },
+    "answer": "A. Quyền bãi miễn những đại biểu không xứng đáng"
+  },
+  {
+    "id": 35,
+    "question": "Đảng Cộng sản Việt Nam chủ trương xây dựng chế độ dân chủ xã hội chủ nghĩa, mở rộng và phát huy quyền làm chủ của nhân dân dựa trên tư tưởng của ai?",
+    "options": {
+      "A": "V.I.Lênin",
+      "B": "Ph.Ăngghen",
+      "C": "C.Mác",
+      "D": "Chủ tịch Hồ Chí Minh"
+    },
+    "answer": "D. Chủ tịch Hồ Chí Minh"
+  },
+  {
+    "id": 36,
+    "question": "Một trong những hướng phát triển dân chủ mà Chủ tịch Hồ Chí Minh đã đề ra là gì?",
+    "options": {
+      "A": "Dân chủ là một giá trị nhân loại chung",
+      "B": "Dân chủ là người dân được tự do, hạnh phúc",
+      "C": "Dân chủ là phát triển đất nước xã hội chủ nghĩa ở Việt Nam",
+      "D": "B và C đều đúng"
+    },
+    "answer": "A. Dân chủ là một giá trị nhân loại chung"
+  },
+  {
+    "id": 37,
+    "question": "Nhà nước pháp quyền xã hội chủ nghĩa ở Việt Nam mang bản chất giai cấp của giai cấp nào?",
+    "options": {
+      "A": "Công nhân",
+      "B": "Nông dân",
+      "C": "Tư sản",
+      "D": "Trí thức"
+    },
+    "answer": "A. Công nhân"
+  },
+  {
+    "id": 38,
+    "question": "Nhà nước pháp quyền xã hội chủ nghĩa Việt Nam coi yếu tố nào là chủ thể, là trung tâm của sự phát triển?",
+    "options": {
+      "A": "Con người",
+      "B": "Giai cấp công nhân",
+      "C": "Nhân dân lao động",
+      "D": "Đảng Cộng sản Việt Nam"
+    },
+    "answer": "A. Con người"
+  },
+  {
+    "id": 39,
+    "question": "Vấn đề: \"Xây dựng nhà nước do nhân dân lao động làm chủ, đó là Nhà nước của dân, do dẫn, vì dân\" là đặc điểm thứ mấy trong các đặc điểm của Nhà nước pháp quyền xã hội chủ nghĩa Việt Nam?",
+    "options": {
+      "A": "1",
+      "B": "3",
+      "C": "5",
+      "D": "6"
+    },
+    "answer": "A. 1"
+  },
+  {
+    "id": 40,
+    "question": "\"Quyền lực nhà nước là thống nhất, có sự phân công, phối hợp, kiểm soát giữa các cơ quan nhà nước trong việc thực hiện các quyền lập pháp, hành pháp, tư pháp\" được đề cập tại Đại hội lần thứ bao nhiêu của Đảng?",
+    "options": {
+      "A": "X",
+      "B": "XI",
+      "C": "XII",
+      "D": "XIII"
+    },
+    "answer": "C. XII"
+  },
+  {
+    "id": 41,
+    "question": "Tổ chức và hoạt động của bộ máy nhà nước pháp quyền xã hội chủ nghĩa Việt Nam thực hiện theo nguyên tắc nào?",
+    "options": {
+      "A": "Nguyên tắc tập trung dân chủ",
+      "B": "Nguyên tắc dân chủ rộng rãi",
+      "C": "Nguyên tắc cá nhân phụ trách",
+      "D": "Nguyên tắc lập pháp"
+    },
+    "answer": "A. Nguyên tắc tập trung dân chủ"
+  },
+  {
+    "id": 42,
+    "question": "Tổ chức quyền lực của Nhà nước pháp quyền xã hội chủ nghĩa đảm bảo quyền lực nhà nước như thế nào?",
+    "options": {
+      "A": "Đồng nhất, có sự phân công và phối hợp giữa các cơ quan nhà nước",
+      "B": "Cùng nhau, có sự phân công và phối hợp giữa các cơ quan nhà nước",
+      "C": "Thống nhất, có sự phân công và phối hợp giữa các cơ quan nhà nước",
+      "D": "Chia đều, có sự phân công và phối hợp giữa các cơ quan nhà nước"
+    },
+    "answer": "C. Thống nhất, có sự phân công và phối hợp giữa các cơ quan nhà nước"
+  },
+  {
+    "id": 43,
+    "question": "Trong nhà nước xã hội chủ nghĩa Việt Nam, cơ quan nào là cơ quan quyền lực nhà nước cao nhất?",
+    "options": {
+      "A": "Chính phủ",
+      "B": "Tòa án nhân dân",
+      "C": "Viện kiểm sát nhân dân",
+      "D": "Quốc hội"
+    },
+    "answer": "D. Quốc hội"
+  },
+  {
+    "id": 44,
+    "question": "Đại hội XI, trong Cương lĩnh xây dựng đất nước trong thời quá độ lên chủ nghĩa xã hội (Bổ sung và phát triển năm 2011) xác định bao nhiêu phương hướng phản ánh con đường đi lên chủ nghĩa xã hội ở nước ta?",
+    "options": {
+      "A": "5",
+      "B": "6",
+      "C": "7",
+      "D": "8"
+    },
+    "answer": "D. 8"
+  },
+  {
+    "id": 45,
+    "question": "Đại hội XIII của Đảng Cộng sản Việt Nam đã đề ra mục tiêu gì vào năm 2045 trên con đường xây dựng chủ nghĩa xã hội?",
+    "options": {
+      "A": "Trở thành nước phát triển, có kinh tế tri thức, thu nhập trung bình cao",
+      "B": "Trở thành con rồng Châu Á",
+      "C": "Trở thành nước phát triển, thu nhập cao",
+      "D": "Trở thành nước đang phát triển, có thu nhập trung bình cao"
+    },
+    "answer": "C. Trở thành nước phát triển, thu nhập cao"
+  },
+  {
+    "id": 46,
+    "question": "Đại hội XIII của Đảng Cộng sản Việt Nam đã đề ra mục tiêu gì vào năm 2030 trên con đường xây dựng chủ nghĩa xã hội?",
+    "options": {
+      "A": "Là nước đang phát triển, có thu nhập trung bình",
+      "B": "Là nước đang phát triển, có công nghiệp hiện đại, thu nhập trung bình cao",
+      "C": "Là nước phát triển, có thu nhập trung bình cao",
+      "D": "Là nước phát triển, có thu nhập cao"
+    },
+    "answer": "B. Là nước đang phát triển, có công nghiệp hiện đại, thu nhập trung bình cao"
+  },
+  {
+    "id": 47,
+    "question": "Đâu là một trong những nội dung của mối quan hệ lớn trong xây dựng chủ nghĩa xã hội ở Việt Nam hiện nay?",
+    "options": {
+      "A": "Giữa tăng trưởng kinh tế, thực hiện tiến bộ, công bằng xã hội, bảo vệ môi trường sống",
+      "B": "Giữa tăng trưởng kinh tế và phát triển văn hóa, thực hiện tiến bộ, bảo vệ môi trường, y tế, giáo dục",
+      "C": "Giữa tăng trưởng kinh tế và phát triển văn hóa, thực hiện tiến bộ, công bằng xã hội, bảo vệ môi trường",
+      "D": "Giữa tăng trưởng kinh tế và phát triển văn hóa, thực hiện tiến bộ, công bằng xã hội"
+    },
+    "answer": "C. Giữa tăng trưởng kinh tế và phát triển văn hóa, thực hiện tiến bộ, công bằng xã hội, bảo vệ môi trường"
+  },
+  {
+    "id": 48,
+    "question": "Vấn đề: \"Dân giàu, nước mạnh, dân chủ, công bằng, văn minh\" là đặc trưng thứ mấy trong 08 đặc trưng cơ bản của chủ nghĩa xã hội ở Việt Nam? (Cương lĩnh xây dựng đất nước trong thời kỳ quá độ lên chủ nghĩa xã hội bổ sung, phát triển năm 2011)",
+    "options": {
+      "A": "1",
+      "B": "3",
+      "C": "6",
+      "D": "8"
+    },
+    "answer": "C. 6"
+  },
+  {
+    "id": 49,
+    "question": "Công cuộc đổi mới do Đảng Cộng sản Việt Nam khỏi xướng và lãnh đạo tại Đại hội lần thứ bao nhiêu?",
+    "options": {
+      "A": "Lần thứ IV",
+      "B": "Lần thứ VI",
+      "C": "Lần thứ X",
+      "D": "Lần thứ XIII"
+    },
+    "answer": "B. Lần thứ VI"
+  },
+  {
+    "id": 50,
+    "question": "Cương lĩnh xây dựng đất nước trong thời quá độ lên chủ nghĩa xã hội (Bổ sung và phát triển năm 2011) xác định phương hướng đầu tiên, phản ánh con đường đi lên chủ nghĩa xã hội ở nước ta là gì?",
+    "options": {
+      "A": "Đẩy mạnh công nghiệp hóa, hiện đại hóa đất nước gắn với phát triển kinh tế tri thức, bảo vệ tài nguyên, môi trường",
+      "B": "Phát triển nền kinh tế thị trường định hướng xã hội chủ nghĩa",
+      "C": "Xây dựng nền văn hóa tiên tiến, đậm đà bản sắc dân tộc; xây dựng con người, nâng cao đời sống nhân dân, thực hiện tiến bộ và công bằng xã hội",
+      "D": "Bảo đảm vững chắc quốc phòng và an ninh quốc gia, trật tự, an toàn xã hội"
+    },
+    "answer": "A. Đẩy mạnh công nghiệp hóa, hiện đại hóa đất nước gắn với phát triển kinh tế tri thức, bảo vệ tài nguyên, môi trường"
+  },
+  {
+    "id": 51,
+    "question": "Cương lĩnh xây dựng đất nước trong thời kỳ quá độ lên chủ nghĩa xã hội (Bổ sung và phát triển năm 2011) xác định phương hướng thứ hai, phản ánh con đường đi lên chủ nghĩa xã hội ở nước ta là gì?",
+    "options": {
+      "A": "Phát triển nền kinh tế thị trường định hướng xã hội chủ nghĩa",
+      "B": "Xây dựng nền văn hóa tiên tiến, đậm đà bản sắc dân tộc; xây dựng con người, nâng cao đời sống nhân dân,\nthực hiện tiến bộ và công bằng xã hội",
+      "C": "Bảo đảm vững chắc quốc phòng và an ninh quốc gia, trật tự, an toàn xã hội",
+      "D": "Thực hiện đường lối đối ngoại độc lập, tự chủ, hòa bình, hữu nghị, hợp tác và phát triển; chủ động và tích cực hội nhập quốc tế"
+    },
+    "answer": "A. Phát triển nền kinh tế thị trường định hướng xã hội chủ nghĩa"
+  },
+  {
+    "id": 52,
+    "question": "Nhằm xây dựng thành công chủ nghĩa xã hội, Đảng và Nhà nước ta đã xác định cơ chế kinh tế trong thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam hiện nay là gì?",
+    "options": {
+      "A": "Kinh tế thị trường định hướng xã hội chủ nghĩa",
+      "B": "Kinh tế thị trường",
+      "C": "Kinh tế xã hội chủ nghĩa",
+      "D": "Kinh tế quản lý thị trường xã hội chủ nghĩa"
+    },
+    "answer": "A. Kinh tế thị trường định hướng xã hội chủ nghĩa"
+  },
+  {
+    "id": 53,
+    "question": "Đại hội XI đã đề ra phương hướng phát triển nền kinh tế như thế nào trong thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam trong giai đoạn tới?",
+    "options": {
+      "A": "Phát triển nền kinh tế thị trường xã hội chủ nghĩa",
+      "B": "Phát triển nền kinh tế thị trường hiệp đồng",
+      "C": "Phát triển nền kinh tế thị trường định hướng xã hội chủ nghĩa",
+      "D": "Phát triển nền kinh tế kế hoạch hóa tập trung"
+    },
+    "answer": "C. Phát triển nền kinh tế thị trường định hướng xã hội chủ nghĩa"
+  },
+  {
+    "id": 54,
+    "question": "Các thế lực thù địch sử dụng chiến lược \"diễn biến hòa bình\" chống phá sự nghiệp xây dựng Tổ quốc xã hội chủ nghĩa của nhân dân ta trên phương diện trọng yếu nào?",
+    "options": {
+      "A": "Ngoại giao",
+      "B": "Chính trị, tư tưởng",
+      "C": "Đạo đức, lối sống",
+      "D": "Quân sự, chạy đua vũ trang"
+    },
+    "answer": "B. Chính trị, tư tưởng"
+  },
+  {
+    "id": 55,
+    "question": "Đúng hay sai khi cho rằng dân chủ ở nước ta là mọi công dân đều có quyền tự do tuyệt đối trong tất cả các mặt của đời sống xã hội mà không cần phải tuân theo bất kì điều gì?",
+    "options": {
+      "A": "Đúng, dân chủ thật sự phải thực hiện được mọi nguyện vọng của bất kì người dân nào",
+      "B": "Không, đó là hệ giá trị dân chủ rộng rãi nhất mà nhân loại hướng tới, nhưng hiện tại ở nước ta chưa đạt tới trình độ đó",
+      "C": "Không đúng, dân chủ phải trong khuôn khổ của kỷ cương, pháp luật",
+      "D": "Không đúng, vì cần tuân theo nguyên tắc quản lý của giai cấp công nhân"
+    },
+    "answer": "C. Không đúng, dân chủ phải trong khuôn khổ của kỷ cương, pháp luật"
+  },
+  {
+    "id": 56,
+    "question": "Dựa vào bản chất chính trị thì yếu tố nào được xem là yếu tố quan trọng để đảm bảo quyền lực thực sự thuộc về nhân dân?",
+    "options": {
+      "A": "Giai cấp nông dân lãnh đạo",
+      "B": "Đảng Cộng sản lãnh đạo",
+      "C": "Nhà nước lãnh đạo",
+      "D": "Giai cấp tư sản lãnh đạo"
+    },
+    "answer": "B. Đảng Cộng sản lãnh đạo"
+  },
+  {
+    "id": 57,
+    "question": "Đâu được xem là điều kiện tiên quyết để xây dựng nền dân chủ xã hội chủ nghĩa Việt Nam?",
+    "options": {
+      "A": "Giải phóng dân tộc, giải phóng giai cấp",
+      "B": "Chăm lo giáo dục, y tế cho người dân",
+      "C": "Độc lập, tự chủ, hòa bình",
+      "D": "Xây dựng Đảng Cộng sản Việt Nam trong sạch, vững mạnh"
+    },
+    "answer": "D. Xây dựng Đảng Cộng sản Việt Nam trong sạch, vững mạnh"
+  },
+  {
+    "id": 58,
+    "question": "Các quy chế dân chủ từ cơ sở đến Trung ương và trong các tổ chức chính trị - xã hội ở nước ta đều thực hiện theo phương châm nào?",
+    "options": {
+      "A": "Dân biết, dân bàn, dân kiểm tra, dân hưởng thụ",
+      "B": "Dân bàn, dân kiểm tra, dân làm, dân hưởng thụ",
+      "C": "Dân biết, dân bàn, dân làm, dân kiểm tra",
+      "D": "Dân bàn, dân làm, dân kiểm tra"
+    },
+    "answer": "C. Dân biết, dân bàn, dân làm, dân kiểm tra"
+  },
+  {
+    "id": 59,
+    "question": "Nâng cao chất lượng đội ngũ cán bộ, công chức về những phẩm chất nào?",
+    "options": {
+      "A": "Bản lĩnh kinh tế, phẩm chất đạo đức, năng lực lãnh đạo, điều hành quản lý đất nước",
+      "B": "Bản lĩnh chính trị, phẩm chất đạo đức, năng lực lãnh đạo, điều hành quản lý đất nước",
+      "C": "Bản lĩnh quốc phòng, phẩm chất đạo đức, năng lực lãnh đạo, điều hành quản lý đất nước",
+      "D": "Bản lĩnh xã hội, phẩm chất đạo đức, năng lực lãnh đạo, điều hành quản lý đất nước"
+    },
+    "answer": "B. Bản lĩnh chính trị, phẩm chất đạo đức, năng lực lãnh đạo, điều hành quản lý đất nước"
+  },
+  {
+    "id": 60,
+    "question": "Nhiệm vụ cấp bách, lâu dài của quá trình xây dựng Nhà nước pháp quyền xã hội chủ nghĩa ở nước ta là gì?",
+    "options": {
+      "A": "Phòng chống tham nhũng, lãng phí và thực hành tiết kiệm",
+      "B": "Miễn nhiệm những người không hoàn thành nhiệm vụ",
+      "C": "Nâng cao chất lượng đội ngũ cán bộ, công chức",
+      "D": "Có chính sách đãi ngộ, động viên, khuyến khích cán bộ, công chức"
+    },
+    "answer": "A. Phòng chống tham nhũng, lãng phí và thực hành tiết kiệm"
+  },
+  {
+    "id": 61,
+    "question": "Cần làm gì để tăng cường công tác giám sát, phản biện xã hội, phát huy quyền làm chủ của nhân dân ở nước ta?",
+    "options": {
+      "A": "Công khai hóa, minh bạch hóa, dân chủ hóa về thông tin, chủ trương, chính sách của Đảng và Nhà nước",
+      "B": "Công khai hóa, pháp luật hóa chủ trương, chính sách của Đảng và Nhà nước",
+      "C": "Công khai hóa, thực thi hóa chủ trương, chính sách của Đảng, Nhà nước và của cả hệ thống chính trị",
+      "D": "Triển khai mạnh mẽ, đồng bộ hóa hệ thống pháp luật"
+    },
+    "answer": "A. Công khai hóa, minh bạch hóa, dân chủ hóa về thông tin, chủ trương, chính sách của Đảng và Nhà nước"
+  }
+]
