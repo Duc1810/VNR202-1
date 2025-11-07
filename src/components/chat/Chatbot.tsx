@@ -10,7 +10,10 @@ interface Message {
   timestamp: Date;
 }
 
+
+
 const SUGGESTED_QUESTIONS = [
+  
   "Nhà nước XHCN là gì?",
   "Đặc trưng của dân chủ XHCN?",
   "Cách mạng Tháng Tám có ý nghĩa gì?",
