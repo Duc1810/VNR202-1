@@ -1,10 +1,10 @@
 @import "tailwindcss";
 
 :root {
-  --color-brand-dark: #121212;
+  --color-brand-dark: #ffffff;
   --color-brand-brown: #694030;
-  --color-brand-yellow: #f3c554;
-  --color-brand-yellow-dark: #e3a645;
+  --color-brand-yellow: #f35e53;
+  --color-brand-yellow-dark: #e34545;
   --color-brand-nav: #ffe5a3;
   --color-brand-gray: #919191;
   --color-brand-text: #d9d9d9;
@@ -37,18 +37,24 @@ body {
 
 /* Custom Animations */
 @keyframes float {
-  0%, 100% {
+
+  0%,
+  100% {
     transform: translateY(0px);
   }
+
   50% {
     transform: translateY(-20px);
   }
 }
 
 @keyframes float-delay {
-  0%, 100% {
+
+  0%,
+  100% {
     transform: translateY(0px);
   }
+
   50% {
     transform: translateY(-30px);
   }
@@ -59,6 +65,7 @@ body {
     opacity: 0;
     transform: translateY(30px);
   }
+
   100% {
     opacity: 1;
     transform: translateY(0);
@@ -66,9 +73,12 @@ body {
 }
 
 @keyframes gradient {
-  0%, 100% {
+
+  0%,
+  100% {
     background-position: 0% 50%;
   }
+
   50% {
     background-position: 100% 50%;
   }
@@ -79,6 +89,7 @@ body {
     opacity: 0;
     transform: translateX(-50px);
   }
+
   100% {
     opacity: 1;
     transform: translateX(0);
@@ -90,6 +101,7 @@ body {
     opacity: 0;
     transform: translateX(50px);
   }
+
   100% {
     opacity: 1;
     transform: translateX(0);
@@ -101,6 +113,7 @@ body {
     opacity: 0;
     transform: scale(0.9);
   }
+
   100% {
     opacity: 1;
     transform: scale(1);
@@ -112,25 +125,32 @@ body {
     opacity: 0;
     transform: scale(0.3);
   }
+
   50% {
     opacity: 1;
     transform: scale(1.05);
   }
+
   70% {
     transform: scale(0.9);
   }
+
   100% {
     transform: scale(1);
   }
 }
 
 @keyframes shake {
-  0%, 100% {
+
+  0%,
+  100% {
     transform: translateX(0);
   }
+
   25% {
     transform: translateX(-10px);
   }
+
   75% {
     transform: translateX(10px);
   }
@@ -179,7 +199,7 @@ body {
 }
 
 ::-webkit-scrollbar-track {
-  background: #1a1a1a;
+  background: rgb(183, 180, 180);
 }
 
 ::-webkit-scrollbar-thumb {

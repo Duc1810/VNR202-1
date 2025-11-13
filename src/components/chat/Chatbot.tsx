@@ -12,7 +12,7 @@ interface Message {
 
 
 const SUGGESTED_QUESTIONS = [
-  
+
   "Đại hội VI và công cuộc Đổi mới (1986)",
   "Gạc Ma, chiến tranh biên giới và bảo vệ Tổ quốc",
   "Bình thường hóa quan hệ và hội nhập quốc tế (1989–1995)",
@@ -111,9 +111,8 @@ HÃY TRẢ LỜI (ngắn gọn, dễ hiểu, có emoji phù hợp):`;
           msg.includes("is not found")
         ) {
           // Model not available or method not supported for the model.
-          errorMessage += `Model \"${
-            process.env.NEXT_PUBLIC_GEMINI_MODEL || "gemini-2.0-flash-lite"
-          }\" không khả dụng hoặc không hỗ trợ phương thức này.`;
+          errorMessage += `Model \"${process.env.NEXT_PUBLIC_GEMINI_MODEL || "gemini-2.0-flash-lite"
+            }\" không khả dụng hoặc không hỗ trợ phương thức này.`;
 
           // Try to list available models for debugging and show a short list to the user
           // Many SDK versions don't expose a `listModels()` helper. Suggest actions
@@ -163,7 +162,7 @@ HÃY TRẢ LỜI (ngắn gọn, dễ hiểu, có emoji phù hợp):`;
       {!isOpen && (
         <button
           onClick={() => setIsOpen(true)}
-          className="fixed bottom-8 left-8 z-50 flex items-center gap-3 rounded-full bg-linear-to-r from-[#f3c554] to-[#ffd966] p-4 font-bold text-black shadow-2xl transition-all hover:scale-110 hover:shadow-[#f3c554]/50 animate-bounce-in"
+          className="fixed bottom-8 right-8 z-50 flex items-center gap-3 rounded-full bg-linear-to-r from-[#f79797] to-[#f35e53] p-4 font-bold text-black shadow-2xl transition-all hover:scale-110 hover:shadow-[#f35e53]/50 animate-bounce-in"
           aria-label="Mở trợ lý AI"
         >
           <svg
@@ -179,27 +178,24 @@ HÃY TRẢ LỜI (ngắn gọn, dễ hiểu, có emoji phù hợp):`;
               d="M8 10h.01M12 10h.01M16 10h.01M9 16H5a2 2 0 01-2-2V6a2 2 0 012-2h14a2 2 0 012 2v8a2 2 0 01-2 2h-5l-5 5v-5z"
             />
           </svg>
-          <div className="absolute -right-1 -top-1 flex h-6 w-6 items-center justify-center rounded-full bg-red-500 text-xs font-bold text-white animate-pulse">
-            !
-          </div>
         </button>
       )}
 
       {/* Chat Window */}
       {isOpen && (
-        <div className="fixed bottom-8 left-8 z-50 flex h-[600px] w-[400px] flex-col overflow-hidden rounded-2xl border border-white/10 bg-[#1a1510] shadow-2xl animate-scale-in">
+        <div className="fixed bottom-8 right-8 z-50 flex h-[600px] w-[400px] flex-col overflow-hidden rounded-2xl border border-white/10 bg-[#1a1510] shadow-2xl animate-scale-in">
           {/* Header */}
-          <div className="flex items-center justify-between border-b border-white/10 bg-linear-to-r from-[#f3c554]/20 to-[#ffd966]/20 p-4">
+          <div className="flex items-center justify-between border-b border-white/10 bg-linear-to-r from-[#f35e53]/20 to-[#ffcccc]/20 p-4">
             <div className="flex items-center gap-3">
-              <div className="flex h-10 w-10 items-center justify-center rounded-full bg-[#f3c554] text-xl">
+              <div className="flex h-10 w-10 items-center justify-center rounded-full bg-[#f35e53] text-xl">
                 🤖
               </div>
               <div>
                 <h3 className="font-quicksand font-bold text-white">
-                  Trợ lý MLN131
+                  VNR202 AI
                 </h3>
-                <p className="text-xs text-white/60">
-                  {isLoading ? "Đang suy nghĩ..." : "Online • Sẵn sàng trả lời"}
+                <p className="text-xs text-white/90">
+                  {isLoading ? "Đang suy nghĩ..." : "Sẵn sàng trả lời"}
                 </p>
               </div>
             </div>
@@ -250,21 +246,21 @@ HÃY TRẢ LỜI (ngắn gọn, dễ hiểu, có emoji phù hợp):`;
           {/* Messages */}
           <div className="flex-1 overflow-y-auto p-4 space-y-4">
             {messages.length === 0 && (
-              <div className="flex flex-col items-center justify-center h-full text-center">
+              <div className="flex flex-col items-center justify-center h-full text-center mt-30 mb-30">
                 <div className="mb-4 text-6xl">👋</div>
                 <h4 className="mb-2 font-quicksand text-lg font-bold text-white">
                   Xin chào! Tôi là trợ lý AI
                 </h4>
-                <p className="mb-6 text-sm text-white/60">
-                  Tôi có thể giúp bạn về các chủ đề:
+                <p className="mb-6 text-sm text-white/90">
+                  Tôi có thể giúp bạn về các chủ đề như là:
                 </p>
 
                 <div className="w-full space-y-2">
                   {[
-                    "🏛️ Đại hội VI và công cuộc Đổi mới (1986)",
-                    "🪖 Gạc Ma, chiến tranh biên giới và bảo vệ Tổ quốc",
-                    "🌏 Bình thường hóa quan hệ và hội nhập quốc tế (1989–1995)",
-                    "📈 Thành tựu, cải cách và phát triển từ 1996 đến nay",
+                    "Đại hội VI và công cuộc Đổi mới (1986)",
+                    "Gạc Ma, chiến tranh biên giới và bảo vệ Tổ quốc",
+                    "Bình thường hóa quan hệ và hội nhập quốc tế (1989–1995)",
+                    "Thành tựu, cải cách và phát triển từ 1996 đến nay",
                   ].map((topic, idx) => (
                     <div
                       key={idx}
@@ -276,15 +272,15 @@ HÃY TRẢ LỜI (ngắn gọn, dễ hiểu, có emoji phù hợp):`;
                 </div>
 
                 <div className="mt-6 w-full">
-                  <p className="mb-2 text-xs font-semibold text-[#f3c554]">
-                    💡 CÂU HỎI GỢI Ý:
+                  <p className="mb-2 text-xs font-semibold text-white">
+                    CÁC CÂU HỎI GỢI Ý:
                   </p>
                   <div className="space-y-2">
                     {SUGGESTED_QUESTIONS.map((q, idx) => (
                       <button
                         key={idx}
                         onClick={() => handleSuggestedQuestion(q)}
-                        className="w-full rounded-lg border border-[#f3c554]/30 bg-[#f3c554]/10 p-2 text-left text-xs text-white transition-all hover:bg-[#f3c554]/20"
+                        className="w-full rounded-lg border border-[#f35e53]/30 bg-[#f35e53]/10 p-2 text-left text-xs text-white transition-all hover:bg-[#f35e53]/20"
                       >
                         {q}
                       </button>
@@ -297,24 +293,21 @@ HÃY TRẢ LỜI (ngắn gọn, dễ hiểu, có emoji phù hợp):`;
             {messages.map((msg, idx) => (
               <div
                 key={idx}
-                className={`flex ${
-                  msg.role === "user" ? "justify-end" : "justify-start"
-                } animate-fade-in-up`}
+                className={`flex ${msg.role === "user" ? "justify-end" : "justify-start"
+                  } animate-fade-in-up`}
               >
                 <div
-                  className={`max-w-[85%] rounded-2xl px-4 py-3 ${
-                    msg.role === "user"
-                      ? "bg-linear-to-r from-[#f3c554] to-[#ffd966] text-black font-semibold"
-                      : "border border-white/10 bg-white/5 text-white"
-                  }`}
+                  className={`max-w-[85%] rounded-2xl px-4 py-3 ${msg.role === "user"
+                    ? "bg-linear-to-r from-[#f35e53] to-[#ffcccc] text-black font-semibold"
+                    : "border border-white/10 bg-white/5 text-white"
+                    }`}
                 >
                   <div className="whitespace-pre-wrap wrap-break-word text-sm leading-relaxed">
                     {msg.content}
                   </div>
                   <div
-                    className={`mt-2 text-[10px] ${
-                      msg.role === "user" ? "text-black/60" : "text-white/40"
-                    }`}
+                    className={`mt-2 text-[10px] ${msg.role === "user" ? "text-black/60" : "text-white/40"
+                      }`}
                   >
                     {msg.timestamp.toLocaleTimeString("vi-VN", {
                       hour: "2-digit",
@@ -330,17 +323,17 @@ HÃY TRẢ LỜI (ngắn gọn, dễ hiểu, có emoji phù hợp):`;
                 <div className="rounded-2xl border border-white/10 bg-white/5 px-4 py-3">
                   <div className="flex items-center gap-2 text-white">
                     <div className="flex gap-1">
-                      <div className="h-2 w-2 animate-bounce rounded-full bg-[#f3c554]" />
+                      <div className="h-2 w-2 animate-bounce rounded-full bg-[#f35e53]" />
                       <div
-                        className="h-2 w-2 animate-bounce rounded-full bg-[#f3c554]"
+                        className="h-2 w-2 animate-bounce rounded-full bg-[#f35e53]"
                         style={{ animationDelay: "0.2s" }}
                       />
                       <div
-                        className="h-2 w-2 animate-bounce rounded-full bg-[#f3c554]"
+                        className="h-2 w-2 animate-bounce rounded-full bg-[#f35e53]"
                         style={{ animationDelay: "0.4s" }}
                       />
                     </div>
-                    <span className="text-xs text-white/60">
+                    <span className="text-xs text-white/90">
                       Đang trả lời...
                     </span>
                   </div>
@@ -360,14 +353,14 @@ HÃY TRẢ LỜI (ngắn gọn, dễ hiểu, có emoji phù hợp):`;
                 value={input}
                 onChange={(e) => setInput(e.target.value)}
                 onKeyPress={handleKeyPress}
-                placeholder="Hỏi về Nhà nước XHCN..."
+                placeholder="Hỏi về Việt Nam giai đoạn sau 1986..."
                 disabled={isLoading}
-                className="flex-1 rounded-xl border border-white/10 bg-white/5 px-4 py-3 text-sm text-white placeholder-white/40 transition-all focus:border-[#f3c554] focus:outline-none focus:ring-2 focus:ring-[#f3c554]/20 disabled:opacity-50"
+                className="flex-1 rounded-xl border border-white/10 bg-white/5 px-4 py-3 text-sm text-white placeholder-white/40 transition-all focus:border-[#f35e53] focus:outline-none focus:ring-2 focus:ring-[#f35e53]/20 disabled:opacity-50"
               />
               <button
                 onClick={() => sendMessage()}
                 disabled={isLoading || !input.trim()}
-                className="flex items-center justify-center rounded-xl bg-linear-to-r from-[#f3c554] to-[#ffd966] px-4 py-3 font-bold text-black transition-all hover:shadow-lg hover:shadow-[#f3c554]/50 disabled:opacity-50 disabled:cursor-not-allowed"
+                className="flex items-center justify-center rounded-xl bg-linear-to-r from-[#f79797] to-[#f35e53] px-4 py-3 font-bold text-black transition-all hover:shadow-lg hover:shadow-[#f35e53]/50 disabled:opacity-50 disabled:cursor-not-allowed"
                 title="Gửi tin nhắn"
               >
                 <svg
@@ -385,10 +378,6 @@ HÃY TRẢ LỜI (ngắn gọn, dễ hiểu, có emoji phù hợp):`;
                 </svg>
               </button>
             </div>
-
-            <p className="mt-2 text-center text-[10px] text-white/40">
-              AI có thể mắc lỗi. Hãy kiểm tra thông tin quan trọng.
-            </p>
           </div>
         </div>
       )}

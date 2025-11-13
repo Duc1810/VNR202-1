@@ -1,4 +1,4 @@
-// Knowledge Base từ tài liệu MLN131
+// Knowledge Base từ tài liệu VNR202
 
 export const knowledgeBase = `
 # HỆ THỐNG PROMPT CHO GIAI ĐOẠN 1986 - NAY

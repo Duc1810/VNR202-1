@@ -18,9 +18,9 @@ const quicksand = Quicksand({
 });
 
 export const metadata: Metadata = {
-  title: "MLN131 - Dân chủ và Nhà nước XHCN",
+  title: "VNR202 - Việt Nam giai đoạn sau 1986",
   description:
-    "Chuyên trang về Nhà nước xã hội chủ nghĩa, dân chủ và các kiến thức liên quan cho sinh viên MLN131.",
+    "Chuyên trang về Nhà nước xã hội chủ nghĩa, dân chủ và các kiến thức liên quan cho sinh viên VNR202.",
 };
 
 export default function RootLayout({

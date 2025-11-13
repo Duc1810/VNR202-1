@@ -24,23 +24,13 @@ export function Header({ currentPath = "" }: HeaderProps) {
     <header className="sticky top-0 z-50">
       <div className="relative isolate">
         <div className="absolute inset-0 bg-[#1a1510]/85 backdrop-blur-md" />
-        <div className="absolute inset-x-0 bottom-0 h-px bg-linear-to-r from-[#f3c554]/60 via-transparent to-[#f3c554]/60" />
+        <div className="absolute inset-x-0 bottom-0 h-px bg-linear-to-b from-black/90 via-black/50 to-black/90" />
         <div className="relative mx-auto flex h-20 max-w-7xl items-center justify-between gap-4 px-4 sm:h-24 sm:px-6 lg:px-8">
-          <Link href="/" className="group flex items-center gap-3">
-            <span className="flex flex-col">
-              <span className="font-inter text-xs uppercase tracking-[0.2em] text-white/55">
-                MLN131
-              </span>
-              <span className="font-quicksand text-lg font-semibold text-white transition-colors group-hover:text-[#f3c554]">
-                {GROUP_NAME}
-              </span>
-            </span>
-          </Link>
           <nav className="hidden items-center gap-1 rounded-full bg-white/5 px-1 py-1 shadow-inner shadow-black/20 ring-1 ring-white/10 lg:flex">
             {NAV_ITEMS.map((item) => {
               const isActive =
-                currentPath === item.href ||
-                currentPath.startsWith(`${item.href}/`);
+                currentPath.replace(/\/$/, "") === item.href.replace(/\/$/, "") ||
+                currentPath.startsWith(item.href + "/");
               return (
                 <Link
                   key={item.href}
@@ -48,7 +38,7 @@ export function Header({ currentPath = "" }: HeaderProps) {
                   className={classNames(
                     "font-inter inline-flex items-center rounded-full px-4 py-2 text-sm font-medium transition-all",
                     isActive
-                      ? "bg-linear-to-r from-[#f3c554] to-[#e3a645] text-black shadow-lg shadow-[#f3c554]/30"
+                      ? "bg-linear-to-r from-[#fc948d] to-[#e44444] text-black shadow-lg shadow-[#f35e53]/30"
                       : "text-white/80 hover:text-white hover:bg-white/10"
                   )}
                 >
@@ -57,18 +47,26 @@ export function Header({ currentPath = "" }: HeaderProps) {
               );
             })}
           </nav>
+          <Link href="/" className="group flex items-center gap-3">
+            <span className="flex flex-col">
+              <span className="font-inter text-xs uppercase tracking-[0.2em] text-white/55">
+                VNR202
+              </span>
+              <span className="font-quicksand text-lg font-semibold text-white transition-colors group-hover:text-[#f35e53]">
+                {GROUP_NAME}
+              </span>
+            </span>
+          </Link>
           <div className="flex items-center gap-3">
-            {/* Music toggle button - mobile */}
-            <button
+            {/* <button
               type="button"
-              className="inline-flex h-11 w-11 items-center justify-center rounded-full border border-white/15 text-white outline-none transition hover:border-[#f3c554]/40 hover:text-[#f3c554]"
+              className="inline-flex h-11 w-11 items-center justify-center rounded-full border border-white/15 text-white outline-none transition hover:border-[#f35e53]/40 hover:text-[#f35e53]"
               onClick={() => toggleMusic()}
               aria-pressed={isMusicOpen}
               aria-label={isMusicOpen ? "Tắt nhạc" : "Bật nhạc"}
               title={isMusicOpen ? "Tắt nhạc" : "Bật nhạc"}
             >
               {isMusicOpen ? (
-                // Speaker / music-on icon
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
@@ -89,7 +87,6 @@ export function Header({ currentPath = "" }: HeaderProps) {
                   />
                 </svg>
               ) : (
-                // Music off / muted icon
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
@@ -110,12 +107,11 @@ export function Header({ currentPath = "" }: HeaderProps) {
                   />
                 </svg>
               )}
-            </button>
+            </button> */}
 
-            {/* Mobile menu toggle */}
             <button
               type="button"
-              className="inline-flex h-11 w-11 items-center justify-center rounded-full border border-white/15 text-white outline-none transition hover:border-[#f3c554]/40 hover:text-[#f3c554] lg:hidden"
+              className="inline-flex h-11 w-11 items-center justify-center rounded-full border border-white/15 text-white outline-none transition hover:border-[#f35e53]/40 hover:text-[#f35e53] lg:hidden"
               onClick={() => setIsMenuOpen((value) => !value)}
               aria-expanded={isMenuOpen}
               aria-label="Toggle navigation"
@@ -170,7 +166,7 @@ export function Header({ currentPath = "" }: HeaderProps) {
                       "rounded-xl px-4 py-3 text-base font-semibold transition",
                       isActive
                         ? "bg-white/10 text-white"
-                        : "text-white/70 hover:bg-white/5 hover:text-white"
+                        : "text-white/90 hover:bg-white/5 hover:text-white"
                     )}
                   >
                     {item.label}

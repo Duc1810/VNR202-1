@@ -34,19 +34,19 @@ export default function QuizPage() {
   );
   const [timeElapsed, setTimeElapsed] = useState(0);
   const [isTimerRunning, setIsTimerRunning] = useState(false);
-const [systemPromptText, setSystemPromptText] = useState("");
+  const [systemPromptText, setSystemPromptText] = useState("");
 
-useEffect(() => {
-  const fetchPrompt = async () => {
-    const res = await fetch("/system_prompt.txt");
-    const text = await res.text();
-    console.log(text);
-    
-    setSystemPromptText(text);
-  };
+  useEffect(() => {
+    const fetchPrompt = async () => {
+      const res = await fetch("/system_prompt.txt");
+      const text = await res.text();
+      console.log(text);
 
-  fetchPrompt();
-}, []);
+      setSystemPromptText(text);
+    };
+
+    fetchPrompt();
+  }, []);
   const allQuestions = quizData as unknown as QuizQuestion[];
 
   // Start quiz with selected mode
@@ -157,16 +157,16 @@ useEffect(() => {
 
   return (
     <div
-      className="min-h-screen bg-[#0a0a0a]"
+      className="min-h-screen"
       style={{
         backgroundImage:
-          "url('/assets/ban-co-biet/4a22a5e0295e170d8bbbfa3301b17b33dd1e379a.png')",
+          " ",
         backgroundSize: "cover",
         backgroundPosition: "center",
         backgroundAttachment: "fixed",
       }}
     >
-      <Header currentPath="/quiz" />
+      <Header currentPath="/on-tap" />
 
       <main className="relative min-h-[calc(100vh-180px)]">
         <div className="absolute inset-0 bg-[#0a0a0a]/95" />
@@ -179,7 +179,7 @@ useEffect(() => {
                 <h1 className="font-quicksand text-4xl font-bold text-white lg:text-5xl">
                   Quiz ôn tập
                 </h1>
-                <p className="mt-4 text-lg text-white/70">
+                <p className="mt-4 text-lg text-white/90">
                   Chọn chế độ luyện tập phù hợp với bạn
                 </p>
               </div>
@@ -220,7 +220,7 @@ useEffect(() => {
                   <h2 className="font-quicksand text-2xl font-bold text-white">
                     Hoặc chọn theo chủ đề
                   </h2>
-                  <p className="mt-2 text-sm text-white/60">
+                  <p className="mt-2 text-sm text-white/90">
                     Luyện tập theo từng chủ đề cụ thể
                   </p>
                 </div>
@@ -228,39 +228,36 @@ useEffect(() => {
                 <div className="grid gap-4 md:grid-cols-3">
                   <button
                     onClick={() => startQuiz("topic", "nha-nuoc")}
-                    className="group rounded-xl border border-white/10 bg-white/5 p-6 text-left transition-all hover:border-[#f3c554]/50 hover:bg-white/10"
+                    className="group rounded-xl border border-white/10 bg-white/5 p-6 text-left transition-all hover:border-[#f35e53]/50 hover:bg-white/10"
                   >
-                    <div className="mb-3 text-3xl">🏛️</div>
                     <h3 className="font-quicksand text-lg font-bold text-white">
                       TÌNH HÌNH TRƯỚC 1986
                     </h3>
-                    <p className="mt-2 text-sm text-white/60">
+                    <p className="mt-2 text-sm text-white/90">
                       Bối cảnh khủng hoảng, Đại hội VI và chính sách Đổi mới
                     </p>
                   </button>
 
                   <button
                     onClick={() => startQuiz("topic", "dan-chu")}
-                    className="group rounded-xl border border-white/10 bg-white/5 p-6 text-left transition-all hover:border-[#f3c554]/50 hover:bg-white/10"
+                    className="group rounded-xl border border-white/10 bg-white/5 p-6 text-left transition-all hover:border-[#f35e53]/50 hover:bg-white/10"
                   >
-                    <div className="mb-3 text-3xl">🗳️</div>
                     <h3 className="font-quicksand text-lg font-bold text-white">
                       XUNG ĐỘT 1986-1989
                     </h3>
-                    <p className="mt-2 text-sm text-white/60">
-                       Chiến sự biên giới, Gạc Ma, rút quân Campuchia, đổi mới nông nghiệp
+                    <p className="mt-2 text-sm text-white/90">
+                      Chiến sự biên giới, Gạc Ma, rút quân Campuchia, đổi mới nông nghiệp
                     </p>
                   </button>
 
                   <button
                     onClick={() => startQuiz("topic", "xay-dung")}
-                    className="group rounded-xl border border-white/10 bg-white/5 p-6 text-left transition-all hover:border-[#f3c554]/50 hover:bg-white/10"
+                    className="group rounded-xl border border-white/10 bg-white/5 p-6 text-left transition-all hover:border-[#f35e53]/50 hover:bg-white/10"
                   >
-                    <div className="mb-3 text-3xl">🏗️</div>
                     <h3 className="font-quicksand text-lg font-bold text-white">
                       CON ĐƯỜNG HÒA BÌNH 1989-1995
                     </h3>
-                    <p className="mt-2 text-sm text-white/60">
+                    <p className="mt-2 text-sm text-white/90">
                       Bình thường hoá quan hệ, gia nhập ASEAN, Cương lĩnh 1991
                     </p>
                   </button>
@@ -278,7 +275,7 @@ useEffect(() => {
               {/* Top Bar */}
               <div className="flex flex-wrap items-center justify-between gap-4 rounded-2xl border border-white/10 bg-linear-to-br from-white/5 to-white/0 p-4">
                 <div className="flex items-center gap-4">
-                  <span className="rounded-lg bg-[#f3c554]/20 px-3 py-1 text-sm font-bold text-[#f3c554]">
+                  <span className="rounded-lg bg-[#f35e53]/20 px-3 py-1 text-sm font-bold text-[#f35e53]">
                     {getModeName(mode)}
                   </span>
                   <Timer
@@ -352,7 +349,7 @@ useEffect(() => {
                     {currentQuestionIndex === questions.length - 1 ? (
                       <button
                         onClick={handleSubmit}
-                        className="flex items-center gap-2 rounded-lg bg-linear-to-r from-[#f3c554] to-[#ffd966] px-8 py-3 font-semibold text-black transition-all hover:shadow-2xl hover:shadow-[#f3c554]/50"
+                        className="flex items-center gap-2 rounded-lg bg-linear-to-r from-[#f35e53] to-[#ffd966] px-8 py-3 font-semibold text-black transition-all hover:shadow-2xl hover:shadow-[#f35e53]/50"
                       >
                         Nộp bài
                         <svg
@@ -372,7 +369,7 @@ useEffect(() => {
                     ) : (
                       <button
                         onClick={handleNext}
-                        className="flex items-center gap-2 rounded-lg bg-linear-to-r from-[#f3c554] to-[#ffd966] px-6 py-3 font-semibold text-black transition-all hover:shadow-2xl hover:shadow-[#f3c554]/50"
+                        className="flex items-center gap-2 rounded-lg bg-linear-to-r from-[#f35e53] to-[#ffcccc] px-6 py-3 font-semibold text-black transition-all hover:shadow-2xl hover:shadow-[#f35e53]/50"
                       >
                         Câu tiếp theo
                         <svg

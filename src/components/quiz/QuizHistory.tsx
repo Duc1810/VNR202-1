@@ -18,7 +18,7 @@ export function QuizHistory() {
     return (
       <button
         onClick={() => setIsOpen(true)}
-        className="fixed bottom-8 right-8 z-50 flex items-center gap-2 rounded-full bg-linear-to-r from-[#f3c554] to-[#ffd966] px-6 py-3 font-semibold text-black shadow-2xl transition-all hover:scale-110 hover:shadow-[#f3c554]/50"
+        className="fixed bottom-8 left-8 z-50 flex items-center gap-2 rounded-full bg-linear-to-r from-[#f35e53] to-[#ffcccc] px-6 py-3 font-semibold text-black shadow-2xl transition-all hover:scale-110 hover:shadow-[#f35e53]/50"
       >
         <svg
           className="h-5 w-5"
@@ -69,7 +69,7 @@ export function QuizHistory() {
         {/* History List */}
         <div className="max-h-[calc(80vh-120px)] overflow-y-auto p-6">
           {history.length === 0 ? (
-            <div className="py-12 text-center text-white/60">
+            <div className="py-12 text-center text-white/90">
               <svg
                 className="mx-auto mb-4 h-16 w-16 text-white/20"
                 fill="none"
@@ -94,12 +94,12 @@ export function QuizHistory() {
                 return (
                   <div
                     key={index}
-                    className="rounded-xl border border-white/10 bg-linear-to-r from-white/5 to-white/0 p-4 transition-all hover:border-[#f3c554]/30"
+                    className="rounded-xl border border-white/10 bg-linear-to-r from-white/5 to-white/0 p-4 transition-all hover:border-[#f35e53]/30"
                   >
                     <div className="flex items-start justify-between gap-4">
                       <div className="flex-1">
                         <div className="mb-2 flex items-center gap-2">
-                          <span className="rounded-full bg-[#f3c554]/20 px-3 py-1 text-xs font-bold text-[#f3c554]">
+                          <span className="rounded-full bg-[#f35e53]/20 px-3 py-1 text-xs font-bold text-[#f35e53]">
                             {getModeName(item.mode)}
                           </span>
                           <span className="text-xs text-white/50">
@@ -109,37 +109,28 @@ export function QuizHistory() {
 
                         <div className="grid grid-cols-3 gap-4 text-sm">
                           <div>
-                            <div className="text-white/60">Điểm</div>
+                            <div className="text-white/90">Điểm</div>
                             <div
-                              className={`text-xl font-bold ${
-                                isGood ? "text-green-400" : "text-orange-400"
-                              }`}
+                              className={`text-xl font-bold ${isGood ? "text-green-400" : "text-orange-400"
+                                }`}
                             >
                               {item.result.score}
                             </div>
                           </div>
                           <div>
-                            <div className="text-white/60">Đúng/Sai</div>
+                            <div className="text-white/90">Đúng/Sai</div>
                             <div className="font-semibold text-white">
                               {item.result.correctAnswers}/
                               {item.result.incorrectAnswers}
                             </div>
                           </div>
                           <div>
-                            <div className="text-white/60">Thời gian</div>
+                            <div className="text-white/90">Thời gian</div>
                             <div className="font-semibold text-white">
                               {formatTime(item.result.timeElapsed)}
                             </div>
                           </div>
                         </div>
-                      </div>
-
-                      <div className="text-3xl">
-                        {item.result.accuracy >= 90
-                          ? "🏆"
-                          : item.result.accuracy >= 70
-                          ? "⭐"
-                          : "📖"}
                       </div>
                     </div>
                   </div>

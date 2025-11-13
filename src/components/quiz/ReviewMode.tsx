@@ -29,7 +29,7 @@ export function ReviewMode({
           <h2 className="font-quicksand text-2xl font-bold text-white">
             Xem lại đáp án
           </h2>
-          <p className="mt-1 text-sm text-white/60">
+          <p className="mt-1 text-sm text-white/90">
             {showOnlyIncorrect
               ? `${incorrectQuestions.length} câu trả lời sai`
               : "Tất cả các câu hỏi"}
@@ -56,9 +56,9 @@ export function ReviewMode({
               questionNumber={originalIndex + 1}
               totalQuestions={questions.length}
               selectedAnswer={userAnswers[question.id] || null}
-              onSelectAnswer={() => {}}
+              onSelectAnswer={() => { }}
               isMarked={false}
-              onToggleMark={() => {}}
+              onToggleMark={() => { }}
               showCorrectAnswer={true}
             />
           );
@@ -69,7 +69,7 @@ export function ReviewMode({
       <div className="flex justify-center">
         <button
           onClick={onClose}
-          className="rounded-xl bg-linear-to-r from-[#f3c554] to-[#ffd966] px-8 py-4 font-semibold text-black transition-all hover:shadow-2xl hover:shadow-[#f3c554]/50"
+          className="rounded-xl bg-linear-to-r from-[#f35e53] to-[#ffd966 ] px-8 py-4 font-semibold text-black transition-all hover:shadow-2xl hover:shadow-[#f35e53]/50"
         >
           Quay lại kết quả
         </button>

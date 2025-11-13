@@ -28,7 +28,7 @@ export function QuestionCard({
   const getOptionStyle = (optionValue: string) => {
     if (!showCorrectAnswer) {
       return selectedAnswer === optionValue
-        ? "border-[#f3c554] bg-[#f3c554]/10 text-white"
+        ? "border-[#f35e53] bg-[#f35e53]/10 text-white"
         : "border-white/10 bg-white/5 text-white/80 hover:border-white/30 hover:bg-white/10";
     }
 
@@ -48,7 +48,7 @@ export function QuestionCard({
   const getOptionIcon = (optionValue: string) => {
     if (!showCorrectAnswer) {
       return selectedAnswer === optionValue ? (
-        <div className="h-5 w-5 rounded-full bg-[#f3c554] flex items-center justify-center">
+        <div className="h-5 w-5 rounded-full bg-[#f35e53] flex items-center justify-center">
           <svg
             className="h-3 w-3 text-black"
             fill="currentColor"
@@ -112,7 +112,7 @@ export function QuestionCard({
       <div className="flex items-start justify-between gap-4">
         <div className="flex-1">
           <div className="mb-2 flex items-center gap-2">
-            <span className="rounded-full bg-[#f3c554]/20 px-3 py-1 text-xs font-bold text-[#f3c554]">
+            <span className="rounded-full bg-[#f35e53]/20 px-3 py-1 text-xs font-bold text-[#f35e53]">
               Câu {questionNumber}/{totalQuestions}
             </span>
             {isMarked && (
@@ -127,11 +127,10 @@ export function QuestionCard({
         </div>
         <button
           onClick={onToggleMark}
-          className={`shrink-0 rounded-lg p-2 transition-colors ${
-            isMarked
-              ? "bg-orange-500/20 text-orange-400 hover:bg-orange-500/30"
-              : "bg-white/5 text-white/40 hover:bg-white/10 hover:text-white/60"
-          }`}
+          className={`shrink-0 rounded-lg p-2 transition-colors ${isMarked
+            ? "bg-orange-500/20 text-orange-400 hover:bg-orange-500/30"
+            : "bg-white/5 text-white/40 hover:bg-white/10 hover:text-white/90"
+            }`}
           title={isMarked ? "Bỏ đánh dấu" : "Đánh dấu câu hỏi"}
         >
           <svg className="h-5 w-5" fill="currentColor" viewBox="0 0 20 20">
