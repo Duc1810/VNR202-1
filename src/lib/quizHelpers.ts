@@ -10,7 +10,7 @@ export function shuffleArray<T>(array: T[]): T[] {
   return newArray;
 }
 
-// Get questions based on mode
+
 export function getQuestionsByMode(
   allQuestions: QuizQuestion[],
   mode: QuizMode,
@@ -19,41 +19,25 @@ export function getQuestionsByMode(
   switch (mode) {
     case "all":
       return shuffleArray(allQuestions);
+
     case "quick":
       return shuffleArray(allQuestions).slice(0, 20);
+
     case "challenge":
       return shuffleArray(allQuestions).slice(0, 15);
+
     case "topic":
       if (!topic) return [];
-      const filtered = allQuestions.filter((q) => {
-        // Simple topic detection based on question content
-        const questionLower = q.question.toLowerCase();
-        if (topic === "nha-nuoc") {
-          return (
-            questionLower.includes("nhà nước") ||
-            questionLower.includes("quyền lực") ||
-            questionLower.includes("chức năng")
-          );
-        } else if (topic === "dan-chu") {
-          return (
-            questionLower.includes("dân chủ") ||
-            questionLower.includes("nhân dân") ||
-            questionLower.includes("quyền làm chủ")
-          );
-        } else if (topic === "xay-dung") {
-          return (
-            questionLower.includes("xây dựng") ||
-            questionLower.includes("phát huy") ||
-            questionLower.includes("cải cách")
-          );
-        }
-        return false;
-      });
-      return shuffleArray(filtered);
+
+      // 👉 Lấy 20 câu đầu tiên đúng chủ đề, không random
+      const filtered = allQuestions.filter((q) => q.topic === topic);
+      return filtered.slice(0, 20);
+
     default:
       return allQuestions;
   }
 }
+
 
 // Calculate quiz result
 export function calculateResult(

@@ -8,7 +8,8 @@
       "C": "Tháng 12/1985",
       "D": "Tháng 6/1987"
     },
-    "answer": "Tháng 12/1986"
+    "answer": "Tháng 12/1986",
+    "topic": "nha-nuoc"
   },
   {
     "id": 2,
@@ -19,7 +20,8 @@
       "C": "774%",
       "D": "1000%"
     },
-    "answer": "774%"
+    "answer": "774%",
+    "topic": "nha-nuoc"
   },
   {
     "id": 3,
@@ -30,7 +32,8 @@
       "C": "Lê Duẩn",
       "D": "Trường Chinh"
     },
-    "answer": "Nguyễn Văn Linh"
+    "answer": "Nguyễn Văn Linh",
+    "topic": "nha-nuoc"
   },
   {
     "id": 4,
@@ -41,7 +44,8 @@
       "C": "300%",
       "D": "350%"
     },
-    "answer": "300%"
+    "answer": "300%",
+    "topic": "nha-nuoc"
   },
   {
     "id": 5,
@@ -52,7 +56,8 @@
       "C": "Không có gì quý hơn độc lập, tự do",
       "D": "Đổi mới hay là chết"
     },
-    "answer": "Nhìn thẳng vào sự thật, đánh giá đúng sự thật, nói rõ sự thật"
+    "answer": "Nhìn thẳng vào sự thật, đánh giá đúng sự thật, nói rõ sự thật",
+    "topic": "nha-nuoc"
   },
   {
     "id": 6,
@@ -63,7 +68,8 @@
       "C": "25/12/1978",
       "D": "25/12/1979"
     },
-    "answer": "25/12/1978"
+    "answer": "25/12/1978",
+    "topic": "nha-nuoc"
   },
   {
     "id": 7,
@@ -74,7 +80,8 @@
       "C": "450,000 tấn",
       "D": "550,000 tấn"
     },
-    "answer": "450,000 tấn"
+    "answer": "450,000 tấn",
+    "topic": "nha-nuoc"
   },
   {
     "id": 8,
@@ -85,7 +92,8 @@
       "C": "5 bài học",
       "D": "6 bài học"
     },
-    "answer": "4 bài học"
+    "answer": "4 bài học",
+    "topic": "nha-nuoc"
   },
   {
     "id": 9,
@@ -96,7 +104,8 @@
       "C": "Xây dựng Đảng",
       "D": "Phát triển kinh tế"
     },
-    "answer": "Lấy dân làm gốc"
+    "answer": "Lấy dân làm gốc",
+    "topic": "nha-nuoc"
   },
   {
     "id": 10,
@@ -107,7 +116,8 @@
       "C": "Cơ chế hỗn hợp",
       "D": "Cơ chế mở cửa"
     },
-    "answer": "Cơ chế tập trung quan liêu bao cấp"
+    "answer": "Cơ chế tập trung quan liêu bao cấp",
+    "topic": "nha-nuoc"
   },
   {
     "id": 11,
@@ -118,7 +128,8 @@
       "C": "Detente",
       "D": "Solidarity"
     },
-    "answer": "Perestroika"
+    "answer": "Perestroika",
+    "topic": "nha-nuoc"
   },
   {
     "id": 12,
@@ -129,7 +140,8 @@
       "C": "Chính sách đóng cửa",
       "D": "Khủng hoảng kinh tế"
     },
-    "answer": "Vấn đề Campuchia"
+    "answer": "Vấn đề Campuchia",
+    "topic": "nha-nuoc"
   },
   {
     "id": 13,
@@ -140,7 +152,8 @@
       "C": "Vấn đề di cư bất hợp pháp",
       "D": "Vấn đề buôn người"
     },
-    "answer": "Vấn đề người tị nạn thuyền nhân (boat people)"
+    "answer": "Vấn đề người tị nạn thuyền nhân (boat people)",
+    "topic": "nha-nuoc"
   },
   {
     "id": 14,
@@ -151,7 +164,8 @@
       "C": "Đà Nẵng",
       "D": "Huế"
     },
-    "answer": "Hà Nội"
+    "answer": "Hà Nội",
+    "topic": "nha-nuoc"
   },
   {
     "id": 15,
@@ -162,7 +176,8 @@
       "C": "4 ngày (15-18/12)",
       "D": "5 ngày (15-19/12)"
     },
-    "answer": "4 ngày (15-18/12)"
+    "answer": "4 ngày (15-18/12)",
+    "topic": "nha-nuoc"
   },
   {
     "id": 16,
@@ -173,7 +188,8 @@
       "C": "Nhiều thành phần",
       "D": "Ba thành phần"
     },
-    "answer": "Nhiều thành phần"
+    "answer": "Nhiều thành phần",
+    "topic": "nha-nuoc"
   },
   {
     "id": 17,
@@ -184,7 +200,8 @@
       "C": "Xu thế liên minh",
       "D": "Xu thế độc lập"
     },
-    "answer": "Xu thế đối thoại"
+    "answer": "Xu thế đối thoại",
+    "topic": "nha-nuoc"
   },
   {
     "id": 18,
@@ -195,7 +212,8 @@
       "C": "Trung Quốc",
       "D": "Nhật Bản"
     },
-    "answer": "Trung Quốc"
+    "answer": "Trung Quốc",
+    "topic": "nha-nuoc"
   },
   {
     "id": 19,
@@ -206,7 +224,8 @@
       "C": "Cơ chế thị trường hoàn toàn",
       "D": "Cơ chế phân quyền"
     },
-    "answer": "Cơ chế hạch toán kinh doanh"
+    "answer": "Cơ chế hạch toán kinh doanh",
+    "topic": "nha-nuoc"
   },
   {
     "id": 20,
@@ -217,7 +236,8 @@
       "C": "NATO",
       "D": "Khối Châu Âu"
     },
-    "answer": "ASEAN"
+    "answer": "ASEAN",
+    "topic": "nha-nuoc"
   },
   {
     "id": 21,
@@ -228,7 +248,8 @@
       "C": "10 năm (1979-1989)",
       "D": "12 năm (1979-1991)"
     },
-    "answer": "10 năm (1979-1989)"
+    "answer": "10 năm (1979-1989)",
+    "topic": "dan-chu"
   },
   {
     "id": 22,
@@ -239,7 +260,8 @@
       "C": "14/4/1988",
       "D": "14/5/1988"
     },
-    "answer": "14/3/1988"
+    "answer": "14/3/1988",
+    "topic": "dan-chu"
   },
   {
     "id": 23,
@@ -250,7 +272,8 @@
       "C": "74 liệt sĩ",
       "D": "84 liệt sĩ"
     },
-    "answer": "64 liệt sĩ"
+    "answer": "64 liệt sĩ",
+    "topic": "dan-chu"
   },
   {
     "id": 24,
@@ -261,7 +284,8 @@
       "C": "4 tàu",
       "D": "5 tàu"
     },
-    "answer": "3 tàu"
+    "answer": "3 tàu",
+    "topic": "dan-chu"
   },
   {
     "id": 25,
@@ -272,7 +296,8 @@
       "C": "5/5/1988",
       "D": "5/6/1988"
     },
-    "answer": "5/4/1988"
+    "answer": "5/4/1988",
+    "topic": "dan-chu"
   },
   {
     "id": 26,
@@ -283,7 +308,8 @@
       "C": "3 tuần",
       "D": "4 tuần"
     },
-    "answer": "3 tuần"
+    "answer": "3 tuần",
+    "topic": "dan-chu"
   },
   {
     "id": 27,
@@ -294,7 +320,8 @@
       "C": "Cải cách giáo dục",
       "D": "Đổi mới quốc phòng"
     },
-    "answer": "Đổi mới quản lý kinh tế nông nghiệp"
+    "answer": "Đổi mới quản lý kinh tế nông nghiệp",
+    "topic": "dan-chu"
   },
   {
     "id": 28,
@@ -305,7 +332,8 @@
       "C": "50,000 quân",
       "D": "60,000 quân"
     },
-    "answer": "50,000 quân"
+    "answer": "50,000 quân",
+    "topic": "dan-chu"
   },
   {
     "id": 29,
@@ -316,7 +344,8 @@
       "C": "Tháng 9/1989",
       "D": "Tháng 10/1989"
     },
-    "answer": "Tháng 9/1989"
+    "answer": "Tháng 9/1989",
+    "topic": "dan-chu"
   },
   {
     "id": 30,
@@ -327,7 +356,8 @@
       "C": "Quảng Ninh, Hải Phòng, Thái Nguyên",
       "D": "Sơn La, Hòa Bình, Thanh Hóa"
     },
-    "answer": "Cao Bằng, Lạng Sơn, Lào Cai"
+    "answer": "Cao Bằng, Lạng Sơn, Lào Cai",
+    "topic": "dan-chu"
   },
 
   {
@@ -339,7 +369,8 @@
       "C": "Kết thúc xung đột",
       "D": "Sự kiện bình thường"
     },
-    "answer": "Cao điểm nhất của căng thẳng"
+    "answer": "Cao điểm nhất của căng thẳng",
+    "topic": "dan-chu"
   },
   {
     "id": 32,
@@ -350,7 +381,8 @@
       "C": "Không can thiệp",
       "D": "Có, gửi vũ khí"
     },
-    "answer": "Không can thiệp"
+    "answer": "Không can thiệp",
+    "topic": "dan-chu"
   },
   {
     "id": 33,
@@ -361,7 +393,8 @@
       "C": "3/11/1977",
       "D": "3/11/1978"
     },
-    "answer": "3/11/1978"
+    "answer": "3/11/1978",
+    "topic": "dan-chu"
   },
   {
     "id": 34,
@@ -372,7 +405,8 @@
       "C": "Hải Phòng",
       "D": "Vũng Tàu"
     },
-    "answer": "Cam Ranh"
+    "answer": "Cam Ranh",
+    "topic": "dan-chu"
   },
   {
     "id": 35,
@@ -383,7 +417,8 @@
       "C": "3 tàu",
       "D": "4 tàu"
     },
-    "answer": "2 tàu"
+    "answer": "2 tàu",
+    "topic": "dan-chu"
   },
   {
     "id": 36,
@@ -394,7 +429,8 @@
       "C": "HQ-606 và HQ-607",
       "D": "HQ-608 và HQ-609"
     },
-    "answer": "HQ-604 và HQ-605"
+    "answer": "HQ-604 và HQ-605",
+    "topic": "dan-chu"
   },
   {
     "id": 37,
@@ -405,7 +441,8 @@
       "C": "Thổ Chu",
       "D": "Cồn Cỏ"
     },
-    "answer": "Trường Sa"
+    "answer": "Trường Sa",
+    "topic": "dan-chu"
   },
   {
     "id": 38,
@@ -416,7 +453,8 @@
       "C": "77,1%",
       "D": "87,1%"
     },
-    "answer": "67,1%"
+    "answer": "67,1%",
+    "topic": "dan-chu"
   },
   {
     "id": 39,
@@ -427,7 +465,8 @@
       "C": "1990",
       "D": "1991"
     },
-    "answer": "1989"
+    "answer": "1989",
+    "topic": "dan-chu"
   },
   {
     "id": 40,
@@ -438,7 +477,8 @@
       "C": "Thời kỳ khủng hoảng",
       "D": "Thời kỳ cô lập"
     },
-    "answer": "Đổi mới trong chiến tranh"
+    "answer": "Đổi mới trong chiến tranh",
+    "topic": "dan-chu"
   },
   {
     "id": 41,
@@ -449,7 +489,8 @@
       "C": "1989",
       "D": "1990"
     },
-    "answer": "1989"
+    "answer": "1989",
+    "topic": "xay-dung"
   },
   {
     "id": 42,
@@ -460,7 +501,8 @@
       "C": "Tháng 11/1991",
       "D": "Tháng 12/1991"
     },
-    "answer": "Tháng 11/1991"
+    "answer": "Tháng 11/1991",
+    "topic": "xay-dung"
   },
   {
     "id": 43,
@@ -471,7 +513,8 @@
       "C": "Lê Khả Phiêu",
       "D": "Nông Đức Mạnh"
     },
-    "answer": "Đỗ Mười"
+    "answer": "Đỗ Mười",
+    "topic": "xay-dung"
   },
   {
     "id": 44,
@@ -482,7 +525,8 @@
       "C": "11/8/1995",
       "D": "11/9/1995"
     },
-    "answer": "11/7/1995"
+    "answer": "11/7/1995",
+    "topic": "xay-dung"
   },
   {
     "id": 45,
@@ -493,7 +537,8 @@
       "C": "Ronald Reagan",
       "D": "George W. Bush"
     },
-    "answer": "Bill Clinton"
+    "answer": "Bill Clinton",
+    "topic": "xay-dung"
   },
   {
     "id": 46,
@@ -504,7 +549,8 @@
       "C": "28/8/1995",
       "D": "28/9/1995"
     },
-    "answer": "28/7/1995"
+    "answer": "28/7/1995",
+    "topic": "xay-dung"
   },
   {
     "id": 47,
@@ -515,7 +561,8 @@
       "C": "Thứ 7",
       "D": "Thứ 8"
     },
-    "answer": "Thứ 7"
+    "answer": "Thứ 7",
+    "topic": "xay-dung"
   },
   {
     "id": 48,
@@ -526,7 +573,8 @@
       "C": "Brunei",
       "D": "Jakarta, Indonesia"
     },
-    "answer": "Brunei"
+    "answer": "Brunei",
+    "topic": "xay-dung"
   },
   {
     "id": 49,
@@ -537,7 +585,8 @@
       "C": "23/11/1991",
       "D": "23/12/1991"
     },
-    "answer": "23/10/1991"
+    "answer": "23/10/1991",
+    "topic": "xay-dung"
   },
   {
     "id": 50,
@@ -548,7 +597,8 @@
       "C": "12,7%",
       "D": "13,7%"
     },
-    "answer": "12,7%"
+    "answer": "12,7%",
+    "topic": "xay-dung"
   },
   {
     "id": 51,
@@ -559,7 +609,8 @@
       "C": "Tháng 6/1991",
       "D": "Tháng 7/1991"
     },
-    "answer": "Tháng 6/1991"
+    "answer": "Tháng 6/1991",
+    "topic": "xay-dung"
   },
   {
     "id": 52,
@@ -570,7 +621,8 @@
       "C": "Luật Đất đai",
       "D": "Luật Doanh nghiệp"
     },
-    "answer": "Cương lĩnh 1991"
+    "answer": "Cương lĩnh 1991",
+    "topic": "xay-dung"
   },
   {
     "id": 53,
@@ -581,7 +633,8 @@
       "C": "5 bài học",
       "D": "6 bài học"
     },
-    "answer": "5 bài học"
+    "answer": "5 bài học",
+    "topic": "xay-dung"
   },
   {
     "id": 54,
@@ -592,7 +645,8 @@
       "C": "Đoàn kết dân tộc",
       "D": "Đổi mới sáng tạo"
     },
-    "answer": "Nắm vững ngọn cờ độc lập dân tộc và chủ nghĩa xã hội"
+    "answer": "Nắm vững ngọn cờ độc lập dân tộc và chủ nghĩa xã hội",
+    "topic": "xay-dung"
   },
   {
     "id": 55,
@@ -603,7 +657,8 @@
       "C": "1988",
       "D": "1989"
     },
-    "answer": "1989"
+    "answer": "1989",
+    "topic": "xay-dung"
   },
   {
     "id": 56,
@@ -614,7 +669,8 @@
       "C": "12 năm",
       "D": "13 năm"
     },
-    "answer": "12 năm"
+    "answer": "12 năm",
+    "topic": "xay-dung"
   },
   {
     "id": 57,
@@ -625,7 +681,8 @@
       "C": "Nguyên tắc hòa bình, ổn định",
       "D": "Nguyên tắc độc lập"
     },
-    "answer": "Nguyên tắc hòa bình, ổn định"
+    "answer": "Nguyên tắc hòa bình, ổn định",
+    "topic": "xay-dung"
   },
   {
     "id": 58,
@@ -636,7 +693,8 @@
       "C": "Giáo dục",
       "D": "Văn hóa"
     },
-    "answer": "MIA (quân nhân Mỹ mất tích)"
+    "answer": "MIA (quân nhân Mỹ mất tích)",
+    "topic": "xay-dung"
   },
   {
     "id": 59,
@@ -647,7 +705,8 @@
       "C": "Giai đoạn chiến tranh",
       "D": "Giai đoạn cô lập"
     },
-    "answer": "Giai đoạn hòa bình thực sự"
+    "answer": "Giai đoạn hòa bình thực sự",
+    "topic": "xay-dung"
   },
   {
     "id": 60,
@@ -658,7 +717,8 @@
       "C": "Quan hệ với Liên Xô",
       "D": "Hệ thống quốc phòng"
     },
-    "answer": "Thế bao vây, cấm vận"
+    "answer": "Thế bao vây, cấm vận",
+    "topic": "xay-dung"
   },
   {
     "id": 61,
@@ -669,6 +729,7 @@
       "C": "Có, từ 1988",
       "D": "Không, chỉ có hòa bình từ 1995"
     },
-    "answer": "Không, chỉ có hòa bình thực sự từ 1989"
+    "answer": "Không, chỉ có hòa bình thực sự từ 1989",
+    "topic": "xay-dung"
   }
 ]

@@ -3,7 +3,6 @@
 import { useState, useRef, useEffect } from "react";
 import { GoogleGenerativeAI } from "@google/generative-ai";
 import { knowledgeBase, systemPrompt } from "@/lib/knowledge-base";
-
 interface Message {
   role: "user" | "assistant";
   content: string;
@@ -14,10 +13,10 @@ interface Message {
 
 const SUGGESTED_QUESTIONS = [
   
-  "Nhà nước XHCN là gì?",
-  "Đặc trưng của dân chủ XHCN?",
-  "Cách mạng Tháng Tám có ý nghĩa gì?",
-  "Nhà nước pháp quyền là gì?",
+  "Đại hội VI và công cuộc Đổi mới (1986)",
+  "Gạc Ma, chiến tranh biên giới và bảo vệ Tổ quốc",
+  "Bình thường hóa quan hệ và hội nhập quốc tế (1989–1995)",
+  "Thành tựu, cải cách và phát triển từ 1996 đến nay",
 ];
 
 export function Chatbot() {
@@ -27,7 +26,6 @@ export function Chatbot() {
   const [isLoading, setIsLoading] = useState(false);
   const messagesEndRef = useRef<HTMLDivElement>(null);
   const inputRef = useRef<HTMLInputElement>(null);
-
   const scrollToBottom = () => {
     messagesEndRef.current?.scrollIntoView({ behavior: "smooth" });
   };
@@ -263,10 +261,10 @@ HÃY TRẢ LỜI (ngắn gọn, dễ hiểu, có emoji phù hợp):`;
 
                 <div className="w-full space-y-2">
                   {[
-                    "🏛️ Nhà nước XHCN",
-                    "🗳️ Dân chủ XHCN",
-                    "📚 Lịch sử phát triển",
-                    "⚖️ Nhà nước pháp quyền",
+                    "🏛️ Đại hội VI và công cuộc Đổi mới (1986)",
+                    "🪖 Gạc Ma, chiến tranh biên giới và bảo vệ Tổ quốc",
+                    "🌏 Bình thường hóa quan hệ và hội nhập quốc tế (1989–1995)",
+                    "📈 Thành tựu, cải cách và phát triển từ 1996 đến nay",
                   ].map((topic, idx) => (
                     <div
                       key={idx}

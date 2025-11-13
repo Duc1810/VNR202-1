@@ -34,7 +34,19 @@ export default function QuizPage() {
   );
   const [timeElapsed, setTimeElapsed] = useState(0);
   const [isTimerRunning, setIsTimerRunning] = useState(false);
+const [systemPromptText, setSystemPromptText] = useState("");
 
+useEffect(() => {
+  const fetchPrompt = async () => {
+    const res = await fetch("/system_prompt.txt");
+    const text = await res.text();
+    console.log(text);
+    
+    setSystemPromptText(text);
+  };
+
+  fetchPrompt();
+}, []);
   const allQuestions = quizData as unknown as QuizQuestion[];
 
   // Start quiz with selected mode
@@ -220,10 +232,10 @@ export default function QuizPage() {
                   >
                     <div className="mb-3 text-3xl">🏛️</div>
                     <h3 className="font-quicksand text-lg font-bold text-white">
-                      Nhà nước XHCN
+                      TÌNH HÌNH TRƯỚC 1986
                     </h3>
                     <p className="mt-2 text-sm text-white/60">
-                      Câu hỏi về nhà nước, quyền lực, chức năng
+                      Bối cảnh khủng hoảng, Đại hội VI và chính sách Đổi mới
                     </p>
                   </button>
 
@@ -233,10 +245,10 @@ export default function QuizPage() {
                   >
                     <div className="mb-3 text-3xl">🗳️</div>
                     <h3 className="font-quicksand text-lg font-bold text-white">
-                      Dân chủ XHCN
+                      XUNG ĐỘT 1986-1989
                     </h3>
                     <p className="mt-2 text-sm text-white/60">
-                      Câu hỏi về dân chủ, quyền làm chủ của nhân dân
+                       Chiến sự biên giới, Gạc Ma, rút quân Campuchia, đổi mới nông nghiệp
                     </p>
                   </button>
 
@@ -246,10 +258,10 @@ export default function QuizPage() {
                   >
                     <div className="mb-3 text-3xl">🏗️</div>
                     <h3 className="font-quicksand text-lg font-bold text-white">
-                      Xây dựng & phát huy
+                      CON ĐƯỜNG HÒA BÌNH 1989-1995
                     </h3>
                     <p className="mt-2 text-sm text-white/60">
-                      Câu hỏi về xây dựng nhà nước pháp quyền
+                      Bình thường hoá quan hệ, gia nhập ASEAN, Cương lĩnh 1991
                     </p>
                   </button>
                 </div>
