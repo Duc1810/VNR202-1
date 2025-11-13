@@ -348,7 +348,7 @@ export default function DemocracyPage() {
 
           <div className="grid items-center gap-12 md:grid-cols-2 backdrop-blur-sm bg-linear-to-br from-black/40 to-black/20 p-8 rounded-3xl border border-white/10">
             <p className="font-quicksand text-2xl font-medium text-[#d9d9d9]/90 leading-relaxed lg:text-2xl">
-              Giai đoạn 1989-1995 đã chứng minh rằng Việt Nam chỉ có hòa bình thực sự từ năm 1989 trở đi. Trước đó (1986-1989) là giai đoạn "Đổi mới trong chiến tranh" với nhiều thử thách an ninh. Từ 1989, với việc kết thúc xung đột và rút quân Campuchia, Việt Nam đã xây dựng được môi trường hòa bình ổn định, mở ra thời kỳ hội nhập và phát triển mới.
+              Giai đoạn 1989-1995 đã chứng minh rằng Việt Nam chỉ có hòa bình thực sự từ năm 1989 trở đi. Trước đó (1986-1989) là giai đoạn {"Đổi mới trong chiến tranh"} với nhiều thử thách an ninh. Từ 1989, với việc kết thúc xung đột và rút quân Campuchia, Việt Nam đã xây dựng được môi trường hòa bình ổn định, mở ra thời kỳ hội nhập và phát triển mới.
             </p>
             <div className="relative group">
               <div className="absolute -inset-4 bg-linear-to-l from-[#f35e53]/20 to-transparent rounded-3xl blur-xl"></div>

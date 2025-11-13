@@ -1,6 +1,5 @@
 "use client";
 
-import Image from "next/image";
 import { Header } from "@/components/Header";
 import { Footer } from "@/components/Footer";
 import { useEffect, useState } from "react";
@@ -142,7 +141,7 @@ export default function SocialistStatePage() {
               <div className="relative pl-6">
                 <div className="absolute left-0 top-2 w-2 h-2 bg-[#f35e53] rounded-full"></div>
                 <p>
-                  Các hiện tượng tiêu cực, vi phạm pháp luật diễn ra khá phổ biến. Tham nhũng, buôn lậu, tình trạng "chợ đen" phát triển. Đặc biệt nghiêm trọng là tình trạng vượt biên trái phép: hàng trăm nghìn người Việt Nam liều mạng vượt biên tìm kiếm cuộc sống mới, tạo ra vấn đề "người tị nạn thuyền nhân" (boat people) gây chấn động quốc tế.
+                  Các hiện tượng tiêu cực, vi phạm pháp luật diễn ra khá phổ biến. Tham nhũng, buôn lậu, tình trạng {"chợ đen"} phát triển. Đặc biệt nghiêm trọng là tình trạng vượt biên trái phép: hàng trăm nghìn người Việt Nam liều mạng vượt biên tìm kiếm cuộc sống mới, tạo ra vấn đề {"người tị nạn thuyền nhân"} (boat people) gây chấn động quốc tế.
                 </p>
               </div>
             </div>
@@ -190,7 +189,7 @@ export default function SocialistStatePage() {
 
             <p className="mt-6 font-quicksand text-xl font-medium text-[#d9d9d9]/90 max-w-4xl mx-auto leading-relaxed backdrop-blur-sm bg-black/30 p-6 rounded-xl border border-white/10">
               Đại hội VI diễn ra từ 15-18/12/1986 tại Hà Nội, bầu đồng chí Nguyễn Văn Linh làm Tổng Bí thư. Đây là đại hội có ý nghĩa bước ngoặt, đánh dấu sự chuyển hướng lớn trong đường lối phát triển của Việt Nam.
-              Đại hội chủ trương "Nhìn thẳng vào sự thật, đánh giá đúng sự thật, nói rõ sự thật." Nghiêm túc chỉ rõ những sai lầm: cơ chế tập trung quan liêu bao cấp, chủ quan duy ý chí, không tôn trọng quy luật kinh tế.
+              Đại hội chủ trương {"Nhìn thẳng vào sự thật, đánh giá đúng sự thật, nói rõ sự thật."} Nghiêm túc chỉ rõ những sai lầm: cơ chế tập trung quan liêu bao cấp, chủ quan duy ý chí, không tôn trọng quy luật kinh tế.
             </p>
           </div>
 
