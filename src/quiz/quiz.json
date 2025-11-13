@@ -1,672 +1,674 @@
 [
   {
     "id": 1,
-    "question": "Nhà nước xã hội chủ nghĩa quản lý mọi mặt của đời sống xã hội bằng cách nào?",
+    "question": "Đại hội VI của Đảng diễn ra vào thời gian nào?",
     "options": {
-      "a": "Đường lối chính sách.",
-      "b": "Hiến pháp, pháp luật.",
-      "c": "Tuyên truyền giáo dục.",
-      "d": "Tất cả các phương án."
+      "A": "Tháng 6/1986",
+      "B": "Tháng 12/1981986",
+      "C": "Tháng 12/1985",
+      "D": "Tháng 6/1987"
     },
-    "answer": "Tất cả các phương án."
+    "answer": "Tháng 12/1986"
   },
   {
     "id": 2,
-    "question": "Dân chủ xã hội chủ nghĩa đầu tiên xuất hiện ở nước nào?",
+    "question": "Tỷ lệ lạm phát của Việt Nam năm 1986 là bao nhiêu?",
     "options": {
-      "a": "Pháp",
-      "b": "Đức",
-      "c": "Nga",
-      "d": "Liên xô"
+      "A": "300%",
+      "B": "500%",
+      "C": "774%",
+      "D": "1000%"
     },
-    "answer": "Liên xô"
+    "answer": "774%"
   },
   {
     "id": 3,
-    "question": "Công cuộc đổi mới xã hội chủ nghĩa diễn ra ở nước nào sau đây:",
+    "question": "Ai được bầu làm Tổng Bí thư tại Đại hội VI?",
     "options": {
-      "a": "Cu Ba",
-      "b": "Trung Quốc",
-      "c": "Việt Nam"
+      "A": "Đỗ Mười",
+      "B": "Nguyễn Văn Linh",
+      "C": "Lê Duẩn",
+      "D": "Trường Chinh"
     },
-    "answer": "Việt Nam"
+    "answer": "Nguyễn Văn Linh"
   },
   {
     "id": 4,
-    "question": "Trong nhà nước xã hội chủ nghĩa Việt Nam, cơ quan nào là cơ quan quyền lực nhất?",
+    "question": "Tỷ lệ lạm phát năm 1985 là bao nhiêu?",
     "options": {
-      "a": "Chính phủ",
-      "b": "Tòa án nhân dân",
-      "c": "Quốc hội",
-      "d": "Viện kiểm sát nhân dân"
+      "A": "200%",
+      "B": "250%",
+      "C": "300%",
+      "D": "350%"
     },
-    "answer": "Quốc hội"
+    "answer": "300%"
   },
   {
     "id": 5,
-    "question": "Đảng Cộng sản Việt Nam chủ trương xây dựng chế độ dân chủ xã hội chủ nghĩa, mở rộng và phát huy quyền làm chủ của nhân dân dựa trên tư tưởng của ai?",
+    "question": "Khẩu hiệu nào sau đây thể hiện tinh thần Đại hội VI?",
     "options": {
-      "a": "V.I.Lenin",
-      "b": "Ph.Ăngghen",
-      "c": "C. Mác",
-      "d": "Chủ tịch Hồ Chí Minh"
+      "A": "Đoàn kết, đoàn kết, đại đoàn kết",
+      "B": "Nhìn thẳng vào sự thật, đánh giá đúng sự thật, nói rõ sự thật",
+      "C": "Không có gì quý hơn độc lập, tự do",
+      "D": "Đổi mới hay là chết"
     },
-    "answer": "Chủ tịch Hồ Chí Minh"
+    "answer": "Nhìn thẳng vào sự thật, đánh giá đúng sự thật, nói rõ sự thật"
   },
   {
     "id": 6,
-    "question": "Điền từ vào chỗ trống (...) trong câu nói của Chủ tịch Hồ Chí Minh: \" Nước ta là nước dân chủ, nghĩa là nước nhà do nhân dân làm chủ. Nhân dân có quyền lợi làm chủ, thì phải có (...) làm tròn bổn phận công dân\" .",
+    "question": "Việt Nam đưa quân vào Campuchia vào ngày nào?",
     "options": {
-      "a": "Khả năng.",
-      "b": "Nghĩa vụ.",
-      "c": "Quyết tâm.",
-      "d": "Nguyện vọng."
+      "A": "25/12/1975",
+      "B": "25/12/1977",
+      "C": "25/12/1978",
+      "D": "25/12/1979"
     },
-    "answer": "Nghĩa vụ."
+    "answer": "25/12/1978"
   },
   {
     "id": 7,
-    "question": "Chế độ dân chủ nhân dân ở Việt Nam được xác lập trong thời gian nào?",
+    "question": "Cuối năm 1988, Việt Nam phải nhập khẩu bao nhiêu tấn gạo?",
     "options": {
-      "A": "Sau Cách mạng Tháng Tám năm 1945",
-      "B": "Sau khi đất nước đổi tên thành Cộng hoà xã hội chủ nghĩa Việt Nam năm 1976",
-      "C": "Sau Đại hội VI năm 1986",
-      "D": "Sau khi kháng chiến chống thực dân Pháp thành công năm 1954 tại miền Bắc"
+      "A": "250,000 tấn",
+      "B": "350,000 tấn",
+      "C": "450,000 tấn",
+      "D": "550,000 tấn"
     },
-    "answer": "Sau Cách mạng Tháng Tám năm 1945"
+    "answer": "450,000 tấn"
   },
   {
     "id": 8,
-    "question": "Hình thức dân chủ gián tiếp được thực hiện như thế nào trong việc thực thi dân chủ ở nước ta hiện nay?",
+    "question": "Đại hội VI rút ra bao nhiêu bài học kinh nghiệm quan trọng?",
     "options": {
-      "A": "Nhân dân trực tiếp thực hiện quyền làm chủ của mình đối với các hoạt động của nhà nước và xã hội",
-      "B": "Thông qua hình thức trưng cầu dân ý trong nhân dân",
-      "C": "Nhân dân được bàn bạc các công việc của nhà nước và cộng đồng dân cư",
-      "D": "Nhân dân uỷ thác quyền lực của mình cho các đại biểu do mình bầu ra"
+      "A": "3 bài học",
+      "B": "4 bài học",
+      "C": "5 bài học",
+      "D": "6 bài học"
     },
-    "answer": "Nhân dân uỷ thác quyền lực của mình cho các đại biểu do mình bầu ra"
+    "answer": "4 bài học"
   },
   {
     "id": 9,
-    "question": "Bản chất tốt đẹp và tính ưu việt của nền dân chủ xã hội chủ nghĩa ở Việt Nam được thể hiện ở điểm nào?",
+    "question": "Bài học hàng đầu của Đại hội VI là gì?",
     "options": {
-      "A": "Đề cao tinh thần thượng tôn pháp luật",
+      "A": "Đoàn kết dân tộc",
       "B": "Lấy dân làm gốc",
-      "C": "Đường lối lãnh đạo của Đảng",
-      "D": "Chính sách pháp luật của Nhà nước"
+      "C": "Xây dựng Đảng",
+      "D": "Phát triển kinh tế"
     },
     "answer": "Lấy dân làm gốc"
   },
   {
     "id": 10,
-    "question": "Nguyên tắc tổ chức và hoạt động của Nhà nước pháp quyền xã hội chủ nghĩa Việt Nam là gì?",
+    "question": "Cơ chế kinh tế nào bị Đại hội VI chỉ trích?",
     "options": {
-      "A": "Nguyên tắc kiểm tra giám sát",
-      "B": "Nguyên tắc tập trung dân chủ",
-      "C": "Nguyên tắc dân chủ và thống nhất quyền lực",
-      "D": "Nguyên tắc tổ chức xây dựng"
+      "A": "Cơ chế thị trường",
+      "B": "Cơ chế tập trung quan liêu bao cấp",
+      "C": "Cơ chế hỗn hợp",
+      "D": "Cơ chế mở cửa"
     },
-    "answer": "Nguyên tắc tập trung dân chủ"
+    "answer": "Cơ chế tập trung quan liêu bao cấp"
   },
   {
     "id": 11,
-    "question": "Phương châm thực hiện quy chế dân chủ xã hội chủ nghĩa ở Việt Nam là gì?",
+    "question": "Chính sách cải cách của Liên Xô dưới thời Gorbachev được gọi là gì?",
     "options": {
-      "A": "Dân bàn, dân làm, dân biết, dân kiểm tra",
-      "B": "Dân biết, dân làm, dân bàn, dân kiểm tra",
-      "C": "Dân biết, dân bàn, dân làm, dân kiểm tra",
-      "D": "Dân biết, dân bàn, dân kiểm tra, dân làm"
+      "A": "Glasnost",
+      "B": "Perestroika",
+      "C": "Detente",
+      "D": "Solidarity"
     },
-    "answer": "Dân biết, dân bàn, dân làm, dân kiểm tra"
+    "answer": "Perestroika"
   },
   {
     "id": 12,
-    "question": "Nền dân chủ nào xuất hiện đầu tiên trong lịch sử nhân loại?",
+    "question": "Vấn đề nào là 'mấu chốt' khiến Việt Nam bị cô lập quốc tế?",
     "options": {
-      "A": "Nền dân chủ chủ nô",
-      "B": "Nền dân chủ tư sản",
-      "C": "Nền dân chủ xã hội chủ nghĩa",
-      "D": "Không có câu trả lời đúng"
+      "A": "Chiến tranh với Trung Quốc",
+      "B": "Vấn đề Campuchia",
+      "C": "Chính sách đóng cửa",
+      "D": "Khủng hoảng kinh tế"
     },
-    "answer": "Nền dân chủ chủ nô"
+    "answer": "Vấn đề Campuchia"
   },
   {
     "id": 13,
-    "question": "Căn cứ vào tính chất của quyền lực nhà nước, chức năng của nhà nước xã hội chủ nghĩa được chia thành:",
+    "question": "Tình trạng vượt biên trái phép tạo ra vấn đề quốc tế nào?",
     "options": {
-      "A": "Chức năng đối nội và Chức năng đối ngoại",
-      "B": "Chức năng xây dựng và đối nội, đối ngoại",
-      "C": "Chức năng giai cấp và chức năng xã hội",
-      "D": "Chức năng chính trị, kinh tế, văn hóa, xã hội"
+      "A": "Vấn đề nhân quyền",
+      "B": "Vấn đề người tị nạn thuyền nhân (boat people)",
+      "C": "Vấn đề di cư bất hợp pháp",
+      "D": "Vấn đề buôn người"
     },
-    "answer": "Chức năng giai cấp và chức năng xã hội"
+    "answer": "Vấn đề người tị nạn thuyền nhân (boat people)"
   },
   {
     "id": 14,
-    "question": "Bản chất dân chủ xã hội chủ nghĩa ở Việt Nam được thực hiện thông qua các hình thức nào?",
+    "question": "Đại hội VI diễn ra tại thành phố nào?",
     "options": {
-      "A": "Hình thức dân chủ gián tiếp và dân chủ trực tiếp",
-      "B": "Hình thức dân chủ gián tiếp và dân chủ đại diện",
-      "C": "Hình thức dân chủ trực tiếp, gián tiếp và đại diện",
-      "D": "Không có câu trả lời đúng"
+      "A": "Hồ Chí Minh",
+      "B": "Hà Nội",
+      "C": "Đà Nẵng",
+      "D": "Huế"
     },
-    "answer": "Hình thức dân chủ gián tiếp và dân chủ trực tiếp"
+    "answer": "Hà Nội"
   },
   {
     "id": 15,
-    "question": "Bản chất dân chủ xã hội chủ nghĩa ở Việt Nam được thực hiện thông qua các hình thức nào?",
+    "question": "Đại hội VI kéo dài bao nhiêu ngày?",
     "options": {
-      "A": "Hình thức dân chủ gián tiếp và dân chủ trực tiếp",
-      "B": "Hình thức dân chủ gián tiếp và dân chủ đại diện",
-      "C": "Hình thức dân chủ trực tiếp, gián tiếp và đại diện",
-      "D": "Không có câu trả lời đúng"
+      "A": "2 ngày (15-16/12)",
+      "B": "3 ngày (15-17/12)",
+      "C": "4 ngày (15-18/12)",
+      "D": "5 ngày (15-19/12)"
     },
-    "answer": "Hình thức dân chủ gián tiếp và dân chủ trực tiếp"
+    "answer": "4 ngày (15-18/12)"
   },
   {
     "id": 16,
-    "question": "Dưới góc độ nào dân chủ được xem là một thành tựu văn hoá, một quá trình sáng tạo văn hoá, thể hiện khát vọng tự do được sáng tạo và phát triển của con người?",
+    "question": "Đại hội VI chủ trương phát triển bao nhiêu thành phần kinh tế?",
     "options": {
-      "A": "Bản chất tư tưởng - văn hóa - xã hội",
-      "B": "Bản chất kinh tế",
-      "C": "Bản chất chính trị",
-      "D": "Tất cả đều đúng"
+      "A": "Một thành phần",
+      "B": "Hai thành phần",
+      "C": "Nhiều thành phần",
+      "D": "Ba thành phần"
     },
-    "answer": "Bản chất tư tưởng - văn hóa - xã hội"
+    "answer": "Nhiều thành phần"
   },
   {
     "id": 17,
-    "question": "Nền dân chủ xã hội chủ nghĩa là nền dân chủ:",
+    "question": "Xu thế nào đang thay thế đối đầu thời Chiến tranh Lạnh?",
     "options": {
-      "A": "Mọi quyền lực thuộc về nhân dân, dân là chủ và dân làm chủ",
-      "B": "Dân chủ và pháp luật nằm trong sự thống nhất biện chứng",
-      "C": "Được thực hiện bằng nhà nước pháp quyền xã hội chủ nghĩa đặt dưới sự lãnh đạo của Đảng Cộng sản",
-      "D": "Tất cả đều đúng"
+      "A": "Xu thế đối thoại",
+      "B": "Xu thế cạnh tranh",
+      "C": "Xu thế liên minh",
+      "D": "Xu thế độc lập"
     },
-    "answer": "Tất cả đều đúng"
+    "answer": "Xu thế đối thoại"
   },
   {
     "id": 18,
-    "question": "Xét về bản chất chính trị, đâu là nền dân chủ vừa có bản chất giai cấp công nhân, vừa có tính nhân dân rộng rãi, tính dân tộc sâu sắc?",
+    "question": "Nước nào cắt đứt viện trợ và gây áp lực quân sự với Việt Nam sau 1978?",
     "options": {
-      "A": "Dân chủ chủ nô",
-      "B": "Dân chủ tư sản",
-      "C": "Dân chủ xã hội chủ nghĩa",
-      "D": "Cả 3 nền dân chủ"
+      "A": "Liên Xô",
+      "B": "Mỹ",
+      "C": "Trung Quốc",
+      "D": "Nhật Bản"
     },
-    "answer": "Dân chủ xã hội chủ nghĩa"
+    "answer": "Trung Quốc"
   },
   {
     "id": 19,
-    "question": "Thực hiện chế độ công hữu về tư liệu sản xuất chủ yếu và thực hiện chế độ phân phối lợi ích theo kết quả lao động là chủ yếu. Đây là bản chất kinh tế của nền dân chủ nào?",
+    "question": "Đại hội VI chủ trương chuyển từ cơ chế bao cấp sang cơ chế nào?",
     "options": {
-      "A": "Dân chủ nguyên thủy",
-      "B": "Dân chủ chủ nô",
-      "C": "Dân chủ tư sản",
-      "D": "Dân chủ xã hội chủ nghĩa"
+      "A": "Cơ chế kế hoạch hóa tập trung",
+      "B": "Cơ chế hạch toán kinh doanh",
+      "C": "Cơ chế thị trường hoàn toàn",
+      "D": "Cơ chế phân quyền"
     },
-    "answer": "Dân chủ xã hội chủ nghĩa"
+    "answer": "Cơ chế hạch toán kinh doanh"
   },
   {
     "id": 20,
-    "question": "Nền dân chủ xã hội chủ nghĩa là nền dân chủ cao hơn về chất so với nền dân chủ tư sản ở điểm nào?",
+    "question": "Tổ chức nào tẩy chay Việt Nam do vấn đề Campuchia?",
     "options": {
-      "A": "Mọi quyền lực thuộc về nhân dân, dân là chủ và dân làm chủ",
-      "B": "Dân chủ và pháp luật nằm trong sự thống nhất biện chứng",
-      "C": "Được thực hiện bằng nhà nước pháp quyền xã hội chủ nghĩa đặt dưới sự lãnh đạo của Đảng Cộng sản",
-      "D": "Tất cả đều đúng"
+      "A": "Liên Hợp Quốc",
+      "B": "ASEAN",
+      "C": "NATO",
+      "D": "Khối Châu Âu"
     },
-    "answer": "Tất cả đều đúng"
+    "answer": "ASEAN"
   },
   {
     "id": 21,
-    "question": "Sự khác biệt của nhà nước pháp quyền xã hội chủ nghĩa ở Việt Nam so với các nhà nước pháp quyền khác là gì?",
+    "question": "Cuộc chiến tranh biên giới phía Bắc kéo dài bao nhiêu năm?",
     "options": {
-      "A": "Mang bản chất giai cấp công nhân, phục vụ lợi ích cho nhân dân",
-      "B": "Nhà nước là công cụ chủ yếu để Đảng Cộng sản Việt Nam định hướng đi lên chủ nghĩa xã hội",
-      "C": "Mang bản chất giai cấp nông dân, phục vụ lợi ích cho nhân dân",
-      "D": "Mang bản chất giai cấp công nhân, phục vụ lợi ích cho nhân dân; Nhà nước là công cụ chủ yếu để Đảng Cộng sản Việt Nam định hướng đi lên chủ nghĩa xã hội"
+      "A": "5 năm (1979-1984)",
+      "B": "8 năm (1979-1987)",
+      "C": "10 năm (1979-1989)",
+      "D": "12 năm (1979-1991)"
     },
-    "answer": "Mang bản chất giai cấp công nhân, phục vụ lợi ích cho nhân dân; Nhà nước là công cụ chủ yếu để Đảng Cộng sản Việt Nam định hướng đi lên chủ nghĩa xã hội"
+    "answer": "10 năm (1979-1989)"
   },
   {
     "id": 22,
-    "question": "Sự khác biệt của nhà nước pháp quyền xã hội chủ nghĩa ở Việt Nam so với các nhà nước pháp quyền khác là gì?",
+    "question": "Trận hải chiến Gạc Ma xảy ra vào ngày nào?",
     "options": {
-      "A": "Mang bản chất giai cấp công nhân, phục vụ lợi ích cho nhân dân",
-      "B": "Nhà nước là công cụ chủ yếu để Đảng Cộng sản Việt Nam định hướng đi lên chủ nghĩa xã hội",
-      "C": "Mang bản chất giai cấp nông dân, phục vụ lợi ích cho nhân dân",
-      "D": "Mang bản chất giai cấp công nhân, phục vụ lợi ích cho nhân dân; Nhà nước là công cụ chủ yếu để Đảng Cộng sản Việt Nam định hướng đi lên chủ nghĩa xã hội"
+      "A": "14/2/1988",
+      "B": "14/3/1988",
+      "C": "14/4/1988",
+      "D": "14/5/1988"
     },
-    "answer": "Mang bản chất giai cấp công nhân, phục vụ lợi ích cho nhân dân; Nhà nước là công cụ chủ yếu để Đảng Cộng sản Việt Nam định hướng đi lên chủ nghĩa xã hội"
+    "answer": "14/3/1988"
   },
   {
     "id": 23,
-    "question": "Nhà nước xã hội chủ nghĩa là kiểu nhà nước mới, có bản chất khác với bản chất của các kiểu nhà nước bóc lột trong lịch sử. Tính ưu việt về mặt bản chất của nhà nước xã hội chủ nghĩa được thể hiện như thế nào?",
+    "question": "Có bao nhiêu liệt sĩ Việt Nam hy sinh trong trận Gạc Ma?",
     "options": {
-      "A": "Nhà nước xã hội chủ nghĩa mang bản chất của giai cấp công nhân, giai cấp có lợi ích phù hợp với lợi ích chung của quần chúng nhân dân lao động",
-      "B": "Bản chất của nhà nước xã hội chủ nghĩa chịu sự quy định của cơ sở kinh tế của xã hội xã hội chủ nghĩa, đó là chế độ sở hữu xã hội về tư liệu sản xuất chủ yếu",
-      "C": "Nhà nước xã hội chủ nghĩa được xây dựng trên nền tảng tinh thần là lý luận của chủ nghĩa Mác - Lênin và những giá trị văn hóa tiên tiến, tiến bộ của nhân loại, đồng thời mang những bản sắc riêng của dân tộc",
-      "D": "Tất cả đều đúng"
+      "A": "54 liệt sĩ",
+      "B": "64 liệt sĩ",
+      "C": "74 liệt sĩ",
+      "D": "84 liệt sĩ"
     },
-    "answer": "Tất cả đều đúng"
+    "answer": "64 liệt sĩ"
   },
   {
     "id": 24,
-    "question": "V.I.Lênin cho rằng, giai cấp vô sản sau khi giành được chính quyền, xác lập địa vị thống trị cho đại đa số nhân dân lao động, thì vấn đề quan trọng không chỉ là trấn áp lại sự phản kháng của giai cấp bóc lột, mà điều quan trọng hơn cả là:",
+    "question": "Trung Quốc sử dụng bao nhiêu tàu khu trục trong trận Gạc Ma?",
     "options": {
-      "A": "Chính quyền mới tạo ra được năng suất sản xuất cao hơn chế độ xã hội cũ, nhờ đó mang lại cuộc sống tốt đẹp hơn cho đại đa số các giai cấp, tầng lớp nhân dân lao động",
-      "B": "Là sự thống trị của đa số đối với thiểu số giai cấp bóc lột nhằm giải phóng giai cấp mình và giải phóng tất cả các tầng lớp nhân dân lao động khác trong xã hội",
-      "C": "Mang lại cuộc sống tốt đẹp hơn cho đại đa số các giai cấp",
-      "D": "Là sự thống trị của đa số đối với tất cả các giai cấp, tầng lớp nhân dân lao động trong xã hội nhằm bảo vệ và duy trì địa vị của mình"
+      "A": "2 tàu",
+      "B": "3 tàu",
+      "C": "4 tàu",
+      "D": "5 tàu"
     },
-    "answer": "Chính quyền mới tạo ra được năng suất sản xuất cao hơn chế độ xã hội cũ, nhờ đó mang lại cuộc sống tốt đẹp hơn cho đại đa số các giai cấp, tầng lớp nhân dân lao động"
+    "answer": "3 tàu"
   },
   {
     "id": 25,
-    "question": "Theo quan điểm của chủ nghĩa Mác - Lênin xét trên phương diện chế độ xã hội và trong lĩnh vực chính trị, dân chủ là:",
+    "question": "Nghị quyết 10 (Khoán 10) được ban hành vào ngày nào?",
     "options": {
-      "A": "Một nguyên tắc - nguyên tắc dân chủ",
-      "B": "Một hình thức hay hình thái nhà nước, là chính thể dân chủ hay chế độ dân chủ.",
-      "C": "Sản phẩm và là thành quả của quá trình đấu tranh giai cấp",
-      "D": "Không có câu trả lới đúng"
+      "A": "5/3/1988",
+      "B": "5/4/1988",
+      "C": "5/5/1988",
+      "D": "5/6/1988"
     },
-    "answer": "Một hình thức hay hình thái nhà nước, là chính thể dân chủ hay chế độ dân chủ."
+    "answer": "5/4/1988"
   },
   {
     "id": 26,
-    "question": "Nhà nước xã hội chủ nghĩa thực hiện chức năng trấn áp đối với giai cấp và đối tượng nào?",
+    "question": "Nghị quyết 10 được ban hành bao lâu sau trận Gạc Ma?",
     "options": {
-      "A": "Nhân dân và những phần tử chống đối để bảo vệ thành quả cách mạng, giữ vững an ninh chính trị, tạo điều kiện thuận lợi cho sự phát triển kinh tế - xã hội",
-      "B": "Các giai cấp, tầng lớp để bảo vệ thành quả cách mạng, giữ vững an ninh chính trị, tạo điều kiện thuận lợi cho sự phát triển kinh tế - xã hội",
-      "C": "Giai cấp bóc lột đã bị lật đổ và những phần tử chống đối để bảo vệ thành quả cách mạng, giữ vững an ninh chính trị, tạo điều kiện thuận lợi cho sự phát triển kinh tế - xã hội",
-      "D": "Những phần tử chống đối để bảo vệ thành quả cách mạng, giữ vững an ninh chính trị, tạo điều kiện thuận lợi cho sự phát triển kinh tế - xã hội"
+      "A": "1 tuần",
+      "B": "2 tuần",
+      "C": "3 tuần",
+      "D": "4 tuần"
     },
-    "answer": "Giai cấp bóc lột đã bị lật đổ và những phần tử chống đối để bảo vệ thành quả cách mạng, giữ vững an ninh chính trị, tạo điều kiện thuận lợi cho sự phát triển kinh tế - xã hội"
+    "answer": "3 tuần"
   },
   {
     "id": 27,
-    "question": "Nền dân chủ vô sản hay còn gọi là nền dân chủ xã hội chủ nghĩa chính thức được xác lập khi nào?",
+    "question": "Nội dung chính của Nghị quyết 10 là gì?",
     "options": {
-      "A": "Thực tiễn đấu tranh giai cấp ở Pháp và Công xã Pari năm 1871",
-      "B": "Cách mạng Tháng Mười Nga thành công với sự ra đời của nhà nước xã hội chủ nghĩa đầu tiên trên thế giới (1917)",
-      "C": "Chủ nghĩa Mác - Lênin với tư cách cơ sở lý luận tổ chức, tiến hành cách mạng và xây dựng nhà nước của giai cấp công nhân",
-      "D": "Không có câu trả lời đúng"
+      "A": "Cải cách công nghiệp",
+      "B": "Đổi mới quản lý kinh tế nông nghiệp",
+      "C": "Cải cách giáo dục",
+      "D": "Đổi mới quốc phòng"
     },
-    "answer": "B. Cách mạng Tháng Mười Nga thành công với sự ra đời của nhà nước xã hội chủ nghĩa đầu tiên trên thế giới (1917)"
+    "answer": "Đổi mới quản lý kinh tế nông nghiệp"
   },
   {
     "id": 28,
-    "question": "Đâu là một trong năm đặc trưng cơ bản của chủ nghĩa xã hội ở Việt Nam được đề cập trong Văn kiện Đại hội đại biểu toàn quốc lần thứ XI của Đảng Cộng sản Việt Nam?",
+    "question": "Tháng 5/1988, Việt Nam rút bao nhiêu quân khỏi Campuchia?",
     "options": {
-      "A": "Dân giàu, nước mạnh, dân chủ, văn minh",
-      "B": "Dân giàu, nước mạnh, con người có cuộc sống ấm no",
-      "C": "Do nhân dân làm chủ",
-      "D": "Nhà nước pháp quyền xã hội chủ nghĩa, nhà nước của nhân dân lao động"
+      "A": "30,000 quân",
+      "B": "40,000 quân",
+      "C": "50,000 quân",
+      "D": "60,000 quân"
     },
-    "answer": "C. Do nhân dân làm chủ"
+    "answer": "50,000 quân"
   },
   {
     "id": 29,
-    "question": "Chế độ dân chủ nhân dân ở nước ta được xác lập khi nào?",
+    "question": "Việt Nam rút hết quân khỏi Campuchia vào tháng nào?",
     "options": {
-      "A": "Từ khi cách mạng tháng Tám năm 1945 thành công",
-      "B": "Từ sau chiến thắng Điện Biên Phủ 1954",
-      "C": "Ngay sau khi thống nhất đất nước vào năm 1975",
-      "D": "Từ khi tiến hành đổi mới vào năm 1986"
+      "A": "Tháng 7/1989",
+      "B": "Tháng 8/1989",
+      "C": "Tháng 9/1989",
+      "D": "Tháng 10/1989"
     },
-    "answer": "A. Từ khi cách mạng tháng Tám năm 1945 thành công"
+    "answer": "Tháng 9/1989"
   },
   {
     "id": 30,
-    "question": "Bản chất dân chủ của chế độ nước ta hiện nay được hiểu như thế nào?",
+    "question": "Các tỉnh nào thường xuyên căng thẳng ở biên giới phía Bắc?",
     "options": {
-      "A": "Chế độ ta là do nhân dân làm chủ, quyền lực thuộc về nhân dân",
-      "B": "Chế độ ta là do Đảng Cộng sản Việt Nam làm chủ, là đại diện ý chí, nguyện vọng của nhân dân",
-      "C": "Chế độ ta là do giai cấp công nhân làm chủ, quyền lực thuộc ve giai cấp công nhân",
-      "D": "Chế độ ta là do cá nhân làm chủ, được hiện thực hóa thông qua vai trò làm"
+      "A": "Hà Giang, Lai Châu, Điện Biên",
+      "B": "Cao Bằng, Lạng Sơn, Lào Cai",
+      "C": "Quảng Ninh, Hải Phòng, Thái Nguyên",
+      "D": "Sơn La, Hòa Bình, Thanh Hóa"
     },
-    "answer": "A. Chế độ ta là do nhân dân làm chủ, quyền lực thuộc về nhân dân"
+    "answer": "Cao Bằng, Lạng Sơn, Lào Cai"
   },
+
   {
     "id": 31,
-    "question": "Trong cách mạng xã hội chủ nghĩa, giai cấp công nhân phải liên minh được với giai cấp nông dân và các tầng lớp nhân dân lao động khác trong giai đoạn nào? Lựa chọn 2 đáp án đúng.",
+    "question": "Trận Gạc Ma được coi là gì trong giai đoạn sau 1986?",
     "options": {
-      "A": "Giai đoạn giành chính quyền",
-      "B": "Giai đoạn xây dựng chế độ xã hội mới",
-      "C": "Giai đoạn đấu tranh đòi các quyền tự do, dân chủ",
-      "D": "Giai đoạn xóa bỏ giai cấp sau khi xây dựng thành công chủ nghĩa xã hội"
+      "A": "Điểm khởi đầu căng thẳng",
+      "B": "Cao điểm nhất của căng thẳng",
+      "C": "Kết thúc xung đột",
+      "D": "Sự kiện bình thường"
     },
-    "answer": "A. Giai đoạn giành chính quyền\nB. Giai đoạn xây dựng chế độ xã hội mới"
+    "answer": "Cao điểm nhất của căng thẳng"
   },
   {
     "id": 32,
-    "question": "Bản chất dân chủ xã hội chủ nghĩa ở Việt Nam được thực hiện thông qua hình thức nào?",
+    "question": "Liên Xô có can thiệp quân sự trong trận Gạc Ma không?",
     "options": {
-      "A": "Hình thức dân chủ trực tiếp",
-      "B": "Hình thức dân chủ gián tiếp",
-      "C": "Hình thức dân chủ đại nghị",
-      "D": "Hình thức dân chủ công khai"
+      "A": "Có, gửi hạm đội",
+      "B": "Có, gửi cố vấn",
+      "C": "Không can thiệp",
+      "D": "Có, gửi vũ khí"
     },
-    "answer": "A. Hình thức dân chủ trực tiếp\nB. Hình thức dân chủ gián tiếp"
+    "answer": "Không can thiệp"
   },
   {
     "id": 33,
-    "question": "Hình thức dân chủ nào ở Việt Nam mà thông qua nó, người dân bằng hành động của mình thực hiện quyền làm chủ nhà nước và xã hội, không thông qua chủ thể trung gian?",
+    "question": "Liên Xô ký hiệp ước phòng thủ với Việt Nam vào ngày nào?",
     "options": {
-      "A": "Hình thức dân chủ trực tiếp",
-      "B": "Hình thức dân chủ gián tiếp",
-      "C": "Hình thức dân chủ đại nghị",
-      "D": "Hình thức dân chủ công khai"
+      "A": "3/11/1975",
+      "B": "3/11/1976",
+      "C": "3/11/1977",
+      "D": "3/11/1978"
     },
-    "answer": "A. Hình thức dân chủ trực tiếp"
+    "answer": "3/11/1978"
   },
   {
     "id": 34,
-    "question": "Ở nước ta, nhân dân có quyền bầu ra những người đại diện cho mình để thực thi quyền làm chủ, quyền đó gọi là gì?",
+    "question": "Căn cứ hải quân Liên Xô tại Việt Nam ở đâu?",
     "options": {
-      "A": "Quyền bãi miễn những đại biểu không xứng đáng",
-      "B": "Quyền tự mình tham gia trở thành đại biểu không qua bầu cử",
-      "C": "Quyền giải tán hệ thống chính trị",
-      "D": "Quyền tự do ngôn luận"
+      "A": "Đà Nẵng",
+      "B": "Cam Ranh",
+      "C": "Hải Phòng",
+      "D": "Vũng Tàu"
     },
-    "answer": "A. Quyền bãi miễn những đại biểu không xứng đáng"
+    "answer": "Cam Ranh"
   },
   {
     "id": 35,
-    "question": "Đảng Cộng sản Việt Nam chủ trương xây dựng chế độ dân chủ xã hội chủ nghĩa, mở rộng và phát huy quyền làm chủ của nhân dân dựa trên tư tưởng của ai?",
+    "question": "Bao nhiêu tàu Việt Nam bị đánh chìm trong trận Gạc Ma?",
     "options": {
-      "A": "V.I.Lênin",
-      "B": "Ph.Ăngghen",
-      "C": "C.Mác",
-      "D": "Chủ tịch Hồ Chí Minh"
+      "A": "1 tàu",
+      "B": "2 tàu",
+      "C": "3 tàu",
+      "D": "4 tàu"
     },
-    "answer": "D. Chủ tịch Hồ Chí Minh"
+    "answer": "2 tàu"
   },
   {
     "id": 36,
-    "question": "Một trong những hướng phát triển dân chủ mà Chủ tịch Hồ Chí Minh đã đề ra là gì?",
+    "question": "Mã hiệu 2 tàu vận tải Việt Nam bị đánh chìm là gì?",
     "options": {
-      "A": "Dân chủ là một giá trị nhân loại chung",
-      "B": "Dân chủ là người dân được tự do, hạnh phúc",
-      "C": "Dân chủ là phát triển đất nước xã hội chủ nghĩa ở Việt Nam",
-      "D": "B và C đều đúng"
+      "A": "HQ-602 và HQ-603",
+      "B": "HQ-604 và HQ-605",
+      "C": "HQ-606 và HQ-607",
+      "D": "HQ-608 và HQ-609"
     },
-    "answer": "A. Dân chủ là một giá trị nhân loại chung"
+    "answer": "HQ-604 và HQ-605"
   },
   {
     "id": 37,
-    "question": "Nhà nước pháp quyền xã hội chủ nghĩa ở Việt Nam mang bản chất giai cấp của giai cấp nào?",
+    "question": "Gạc Ma thuộc quần đảo nào?",
     "options": {
-      "A": "Công nhân",
-      "B": "Nông dân",
-      "C": "Tư sản",
-      "D": "Trí thức"
+      "A": "Hoàng Sa",
+      "B": "Trường Sa",
+      "C": "Thổ Chu",
+      "D": "Cồn Cỏ"
     },
-    "answer": "A. Công nhân"
+    "answer": "Trường Sa"
   },
   {
     "id": 38,
-    "question": "Nhà nước pháp quyền xã hội chủ nghĩa Việt Nam coi yếu tố nào là chủ thể, là trung tâm của sự phát triển?",
+    "question": "Lạm phát giảm xuống bao nhiêu vào năm 1991?",
     "options": {
-      "A": "Con người",
-      "B": "Giai cấp công nhân",
-      "C": "Nhân dân lao động",
-      "D": "Đảng Cộng sản Việt Nam"
+      "A": "57,1%",
+      "B": "67,1%",
+      "C": "77,1%",
+      "D": "87,1%"
     },
-    "answer": "A. Con người"
+    "answer": "67,1%"
   },
   {
     "id": 39,
-    "question": "Vấn đề: \"Xây dựng nhà nước do nhân dân lao động làm chủ, đó là Nhà nước của dân, do dẫn, vì dân\" là đặc điểm thứ mấy trong các đặc điểm của Nhà nước pháp quyền xã hội chủ nghĩa Việt Nam?",
+    "question": "Năm nào Việt Nam chuyển từ nhập khẩu sang xuất khẩu gạo?",
     "options": {
-      "A": "1",
-      "B": "3",
-      "C": "5",
-      "D": "6"
+      "A": "1988",
+      "B": "1989",
+      "C": "1990",
+      "D": "1991"
     },
-    "answer": "A. 1"
+    "answer": "1989"
   },
   {
     "id": 40,
-    "question": "\"Quyền lực nhà nước là thống nhất, có sự phân công, phối hợp, kiểm soát giữa các cơ quan nhà nước trong việc thực hiện các quyền lập pháp, hành pháp, tư pháp\" được đề cập tại Đại hội lần thứ bao nhiêu của Đảng?",
+    "question": "Giai đoạn 1986-1989 được gọi là gì?",
     "options": {
-      "A": "X",
-      "B": "XI",
-      "C": "XII",
-      "D": "XIII"
+      "A": "Thời kỳ hòa bình",
+      "B": "Đổi mới trong chiến tranh",
+      "C": "Thời kỳ khủng hoảng",
+      "D": "Thời kỳ cô lập"
     },
-    "answer": "C. XII"
+    "answer": "Đổi mới trong chiến tranh"
   },
   {
     "id": 41,
-    "question": "Tổ chức và hoạt động của bộ máy nhà nước pháp quyền xã hội chủ nghĩa Việt Nam thực hiện theo nguyên tắc nào?",
+    "question": "Chiến tranh biên giới phía Bắc kết thúc vào năm nào?",
     "options": {
-      "A": "Nguyên tắc tập trung dân chủ",
-      "B": "Nguyên tắc dân chủ rộng rãi",
-      "C": "Nguyên tắc cá nhân phụ trách",
-      "D": "Nguyên tắc lập pháp"
+      "A": "1987",
+      "B": "1988",
+      "C": "1989",
+      "D": "1990"
     },
-    "answer": "A. Nguyên tắc tập trung dân chủ"
+    "answer": "1989"
   },
   {
     "id": 42,
-    "question": "Tổ chức quyền lực của Nhà nước pháp quyền xã hội chủ nghĩa đảm bảo quyền lực nhà nước như thế nào?",
+    "question": "Việt Nam bình thường hóa quan hệ với Trung Quốc vào tháng nào?",
     "options": {
-      "A": "Đồng nhất, có sự phân công và phối hợp giữa các cơ quan nhà nước",
-      "B": "Cùng nhau, có sự phân công và phối hợp giữa các cơ quan nhà nước",
-      "C": "Thống nhất, có sự phân công và phối hợp giữa các cơ quan nhà nước",
-      "D": "Chia đều, có sự phân công và phối hợp giữa các cơ quan nhà nước"
+      "A": "Tháng 9/1991",
+      "B": "Tháng 10/1991",
+      "C": "Tháng 11/1991",
+      "D": "Tháng 12/1991"
     },
-    "answer": "C. Thống nhất, có sự phân công và phối hợp giữa các cơ quan nhà nước"
+    "answer": "Tháng 11/1991"
   },
   {
     "id": 43,
-    "question": "Trong nhà nước xã hội chủ nghĩa Việt Nam, cơ quan nào là cơ quan quyền lực nhà nước cao nhất?",
+    "question": "Ai là Tổng Bí thư khi Việt Nam bình thường hóa với Trung Quốc?",
     "options": {
-      "A": "Chính phủ",
-      "B": "Tòa án nhân dân",
-      "C": "Viện kiểm sát nhân dân",
-      "D": "Quốc hội"
+      "A": "Nguyễn Văn Linh",
+      "B": "Đỗ Mười",
+      "C": "Lê Khả Phiêu",
+      "D": "Nông Đức Mạnh"
     },
-    "answer": "D. Quốc hội"
+    "answer": "Đỗ Mười"
   },
   {
     "id": 44,
-    "question": "Đại hội XI, trong Cương lĩnh xây dựng đất nước trong thời quá độ lên chủ nghĩa xã hội (Bổ sung và phát triển năm 2011) xác định bao nhiêu phương hướng phản ánh con đường đi lên chủ nghĩa xã hội ở nước ta?",
+    "question": "Việt Nam bình thường hóa quan hệ với Mỹ vào ngày nào?",
     "options": {
-      "A": "5",
-      "B": "6",
-      "C": "7",
-      "D": "8"
+      "A": "11/6/1995",
+      "B": "11/7/1995",
+      "C": "11/8/1995",
+      "D": "11/9/1995"
     },
-    "answer": "D. 8"
+    "answer": "11/7/1995"
   },
   {
     "id": 45,
-    "question": "Đại hội XIII của Đảng Cộng sản Việt Nam đã đề ra mục tiêu gì vào năm 2045 trên con đường xây dựng chủ nghĩa xã hội?",
+    "question": "Tổng thống Mỹ nào tuyên bố bình thường hóa với Việt Nam?",
     "options": {
-      "A": "Trở thành nước phát triển, có kinh tế tri thức, thu nhập trung bình cao",
-      "B": "Trở thành con rồng Châu Á",
-      "C": "Trở thành nước phát triển, thu nhập cao",
-      "D": "Trở thành nước đang phát triển, có thu nhập trung bình cao"
+      "A": "George Bush Sr.",
+      "B": "Bill Clinton",
+      "C": "Ronald Reagan",
+      "D": "George W. Bush"
     },
-    "answer": "C. Trở thành nước phát triển, thu nhập cao"
+    "answer": "Bill Clinton"
   },
   {
     "id": 46,
-    "question": "Đại hội XIII của Đảng Cộng sản Việt Nam đã đề ra mục tiêu gì vào năm 2030 trên con đường xây dựng chủ nghĩa xã hội?",
+    "question": "Việt Nam gia nhập ASEAN vào ngày nào?",
     "options": {
-      "A": "Là nước đang phát triển, có thu nhập trung bình",
-      "B": "Là nước đang phát triển, có công nghiệp hiện đại, thu nhập trung bình cao",
-      "C": "Là nước phát triển, có thu nhập trung bình cao",
-      "D": "Là nước phát triển, có thu nhập cao"
+      "A": "28/6/1995",
+      "B": "28/7/1995",
+      "C": "28/8/1995",
+      "D": "28/9/1995"
     },
-    "answer": "B. Là nước đang phát triển, có công nghiệp hiện đại, thu nhập trung bình cao"
+    "answer": "28/7/1995"
   },
   {
     "id": 47,
-    "question": "Đâu là một trong những nội dung của mối quan hệ lớn trong xây dựng chủ nghĩa xã hội ở Việt Nam hiện nay?",
+    "question": "Việt Nam là thành viên thứ mấy của ASEAN?",
     "options": {
-      "A": "Giữa tăng trưởng kinh tế, thực hiện tiến bộ, công bằng xã hội, bảo vệ môi trường sống",
-      "B": "Giữa tăng trưởng kinh tế và phát triển văn hóa, thực hiện tiến bộ, bảo vệ môi trường, y tế, giáo dục",
-      "C": "Giữa tăng trưởng kinh tế và phát triển văn hóa, thực hiện tiến bộ, công bằng xã hội, bảo vệ môi trường",
-      "D": "Giữa tăng trưởng kinh tế và phát triển văn hóa, thực hiện tiến bộ, công bằng xã hội"
+      "A": "Thứ 5",
+      "B": "Thứ 6",
+      "C": "Thứ 7",
+      "D": "Thứ 8"
     },
-    "answer": "C. Giữa tăng trưởng kinh tế và phát triển văn hóa, thực hiện tiến bộ, công bằng xã hội, bảo vệ môi trường"
+    "answer": "Thứ 7"
   },
   {
     "id": 48,
-    "question": "Vấn đề: \"Dân giàu, nước mạnh, dân chủ, công bằng, văn minh\" là đặc trưng thứ mấy trong 08 đặc trưng cơ bản của chủ nghĩa xã hội ở Việt Nam? (Cương lĩnh xây dựng đất nước trong thời kỳ quá độ lên chủ nghĩa xã hội bổ sung, phát triển năm 2011)",
+    "question": "Hội nghị ASEAN khi Việt Nam gia nhập diễn ra ở đâu?",
     "options": {
-      "A": "1",
-      "B": "3",
-      "C": "6",
-      "D": "8"
+      "A": "Bangkok, Thái Lan",
+      "B": "Singapore",
+      "C": "Brunei",
+      "D": "Jakarta, Indonesia"
     },
-    "answer": "C. 6"
+    "answer": "Brunei"
   },
   {
     "id": 49,
-    "question": "Công cuộc đổi mới do Đảng Cộng sản Việt Nam khỏi xướng và lãnh đạo tại Đại hội lần thứ bao nhiêu?",
+    "question": "Hiệp định Paris về Campuchia được ký kết vào ngày nào?",
     "options": {
-      "A": "Lần thứ IV",
-      "B": "Lần thứ VI",
-      "C": "Lần thứ X",
-      "D": "Lần thứ XIII"
+      "A": "23/9/1991",
+      "B": "23/10/1991",
+      "C": "23/11/1991",
+      "D": "23/12/1991"
     },
-    "answer": "B. Lần thứ VI"
+    "answer": "23/10/1991"
   },
   {
     "id": 50,
-    "question": "Cương lĩnh xây dựng đất nước trong thời quá độ lên chủ nghĩa xã hội (Bổ sung và phát triển năm 2011) xác định phương hướng đầu tiên, phản ánh con đường đi lên chủ nghĩa xã hội ở nước ta là gì?",
+    "question": "Lạm phát của Việt Nam năm 1995 là bao nhiêu?",
     "options": {
-      "A": "Đẩy mạnh công nghiệp hóa, hiện đại hóa đất nước gắn với phát triển kinh tế tri thức, bảo vệ tài nguyên, môi trường",
-      "B": "Phát triển nền kinh tế thị trường định hướng xã hội chủ nghĩa",
-      "C": "Xây dựng nền văn hóa tiên tiến, đậm đà bản sắc dân tộc; xây dựng con người, nâng cao đời sống nhân dân, thực hiện tiến bộ và công bằng xã hội",
-      "D": "Bảo đảm vững chắc quốc phòng và an ninh quốc gia, trật tự, an toàn xã hội"
+      "A": "10,7%",
+      "B": "11,7%",
+      "C": "12,7%",
+      "D": "13,7%"
     },
-    "answer": "A. Đẩy mạnh công nghiệp hóa, hiện đại hóa đất nước gắn với phát triển kinh tế tri thức, bảo vệ tài nguyên, môi trường"
+    "answer": "12,7%"
   },
   {
     "id": 51,
-    "question": "Cương lĩnh xây dựng đất nước trong thời kỳ quá độ lên chủ nghĩa xã hội (Bổ sung và phát triển năm 2011) xác định phương hướng thứ hai, phản ánh con đường đi lên chủ nghĩa xã hội ở nước ta là gì?",
+    "question": "Đại hội VII diễn ra vào tháng nào năm 1991?",
     "options": {
-      "A": "Phát triển nền kinh tế thị trường định hướng xã hội chủ nghĩa",
-      "B": "Xây dựng nền văn hóa tiên tiến, đậm đà bản sắc dân tộc; xây dựng con người, nâng cao đời sống nhân dân,\nthực hiện tiến bộ và công bằng xã hội",
-      "C": "Bảo đảm vững chắc quốc phòng và an ninh quốc gia, trật tự, an toàn xã hội",
-      "D": "Thực hiện đường lối đối ngoại độc lập, tự chủ, hòa bình, hữu nghị, hợp tác và phát triển; chủ động và tích cực hội nhập quốc tế"
+      "A": "Tháng 4/1991",
+      "B": "Tháng 5/1991",
+      "C": "Tháng 6/1991",
+      "D": "Tháng 7/1991"
     },
-    "answer": "A. Phát triển nền kinh tế thị trường định hướng xã hội chủ nghĩa"
+    "answer": "Tháng 6/1991"
   },
   {
     "id": 52,
-    "question": "Nhằm xây dựng thành công chủ nghĩa xã hội, Đảng và Nhà nước ta đã xác định cơ chế kinh tế trong thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam hiện nay là gì?",
+    "question": "Văn kiện quan trọng nào được Đại hội VII thông qua?",
     "options": {
-      "A": "Kinh tế thị trường định hướng xã hội chủ nghĩa",
-      "B": "Kinh tế thị trường",
-      "C": "Kinh tế xã hội chủ nghĩa",
-      "D": "Kinh tế quản lý thị trường xã hội chủ nghĩa"
+      "A": "Hiến pháp 1992",
+      "B": "Cương lĩnh 1991",
+      "C": "Luật Đất đai",
+      "D": "Luật Doanh nghiệp"
     },
-    "answer": "A. Kinh tế thị trường định hướng xã hội chủ nghĩa"
+    "answer": "Cương lĩnh 1991"
   },
   {
     "id": 53,
-    "question": "Đại hội XI đã đề ra phương hướng phát triển nền kinh tế như thế nào trong thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam trong giai đoạn tới?",
+    "question": "Đại hội VII rút ra bao nhiêu bài học lớn?",
     "options": {
-      "A": "Phát triển nền kinh tế thị trường xã hội chủ nghĩa",
-      "B": "Phát triển nền kinh tế thị trường hiệp đồng",
-      "C": "Phát triển nền kinh tế thị trường định hướng xã hội chủ nghĩa",
-      "D": "Phát triển nền kinh tế kế hoạch hóa tập trung"
+      "A": "3 bài học",
+      "B": "4 bài học",
+      "C": "5 bài học",
+      "D": "6 bài học"
     },
-    "answer": "C. Phát triển nền kinh tế thị trường định hướng xã hội chủ nghĩa"
+    "answer": "5 bài học"
   },
   {
     "id": 54,
-    "question": "Các thế lực thù địch sử dụng chiến lược \"diễn biến hòa bình\" chống phá sự nghiệp xây dựng Tổ quốc xã hội chủ nghĩa của nhân dân ta trên phương diện trọng yếu nào?",
+    "question": "Bài học hàng đầu của Đại hội VII là gì?",
     "options": {
-      "A": "Ngoại giao",
-      "B": "Chính trị, tư tưởng",
-      "C": "Đạo đức, lối sống",
-      "D": "Quân sự, chạy đua vũ trang"
+      "A": "Lấy dân làm gốc",
+      "B": "Nắm vững ngọn cờ độc lập dân tộc và chủ nghĩa xã hội",
+      "C": "Đoàn kết dân tộc",
+      "D": "Đổi mới sáng tạo"
     },
-    "answer": "B. Chính trị, tư tưởng"
+    "answer": "Nắm vững ngọn cờ độc lập dân tộc và chủ nghĩa xã hội"
   },
   {
     "id": 55,
-    "question": "Đúng hay sai khi cho rằng dân chủ ở nước ta là mọi công dân đều có quyền tự do tuyệt đối trong tất cả các mặt của đời sống xã hội mà không cần phải tuân theo bất kì điều gì?",
+    "question": "Việt Nam có hòa bình thực sự từ năm nào?",
     "options": {
-      "A": "Đúng, dân chủ thật sự phải thực hiện được mọi nguyện vọng của bất kì người dân nào",
-      "B": "Không, đó là hệ giá trị dân chủ rộng rãi nhất mà nhân loại hướng tới, nhưng hiện tại ở nước ta chưa đạt tới trình độ đó",
-      "C": "Không đúng, dân chủ phải trong khuôn khổ của kỷ cương, pháp luật",
-      "D": "Không đúng, vì cần tuân theo nguyên tắc quản lý của giai cấp công nhân"
+      "A": "1986",
+      "B": "1987",
+      "C": "1988",
+      "D": "1989"
     },
-    "answer": "C. Không đúng, dân chủ phải trong khuôn khổ của kỷ cương, pháp luật"
+    "answer": "1989"
   },
   {
     "id": 56,
-    "question": "Dựa vào bản chất chính trị thì yếu tố nào được xem là yếu tố quan trọng để đảm bảo quyền lực thực sự thuộc về nhân dân?",
+    "question": "Quan hệ Việt-Trung đã đối đầu bao nhiêu năm trước khi bình thường hóa?",
     "options": {
-      "A": "Giai cấp nông dân lãnh đạo",
-      "B": "Đảng Cộng sản lãnh đạo",
-      "C": "Nhà nước lãnh đạo",
-      "D": "Giai cấp tư sản lãnh đạo"
+      "A": "10 năm",
+      "B": "11 năm",
+      "C": "12 năm",
+      "D": "13 năm"
     },
-    "answer": "B. Đảng Cộng sản lãnh đạo"
+    "answer": "12 năm"
   },
   {
     "id": 57,
-    "question": "Đâu được xem là điều kiện tiên quyết để xây dựng nền dân chủ xã hội chủ nghĩa Việt Nam?",
+    "question": "Nguyên tắc nào Việt Nam ưu tiên hàng đầu trong chính sách đối ngoại?",
     "options": {
-      "A": "Giải phóng dân tộc, giải phóng giai cấp",
-      "B": "Chăm lo giáo dục, y tế cho người dân",
-      "C": "Độc lập, tự chủ, hòa bình",
-      "D": "Xây dựng Đảng Cộng sản Việt Nam trong sạch, vững mạnh"
+      "A": "Nguyên tắc phát triển",
+      "B": "Nguyên tắc hợp tác",
+      "C": "Nguyên tắc hòa bình, ổn định",
+      "D": "Nguyên tắc độc lập"
     },
-    "answer": "D. Xây dựng Đảng Cộng sản Việt Nam trong sạch, vững mạnh"
+    "answer": "Nguyên tắc hòa bình, ổn định"
   },
   {
     "id": 58,
-    "question": "Các quy chế dân chủ từ cơ sở đến Trung ương và trong các tổ chức chính trị - xã hội ở nước ta đều thực hiện theo phương châm nào?",
+    "question": "Việt Nam hợp tác với Mỹ về vấn đề gì trước khi bình thường hóa?",
     "options": {
-      "A": "Dân biết, dân bàn, dân kiểm tra, dân hưởng thụ",
-      "B": "Dân bàn, dân kiểm tra, dân làm, dân hưởng thụ",
-      "C": "Dân biết, dân bàn, dân làm, dân kiểm tra",
-      "D": "Dân bàn, dân làm, dân kiểm tra"
+      "A": "Thương mại",
+      "B": "MIA (quân nhân Mỹ mất tích)",
+      "C": "Giáo dục",
+      "D": "Văn hóa"
     },
-    "answer": "C. Dân biết, dân bàn, dân làm, dân kiểm tra"
+    "answer": "MIA (quân nhân Mỹ mất tích)"
   },
   {
     "id": 59,
-    "question": "Nâng cao chất lượng đội ngũ cán bộ, công chức về những phẩm chất nào?",
+    "question": "Từ năm 1989, Việt Nam bước vào giai đoạn nào?",
     "options": {
-      "A": "Bản lĩnh kinh tế, phẩm chất đạo đức, năng lực lãnh đạo, điều hành quản lý đất nước",
-      "B": "Bản lĩnh chính trị, phẩm chất đạo đức, năng lực lãnh đạo, điều hành quản lý đất nước",
-      "C": "Bản lĩnh quốc phòng, phẩm chất đạo đức, năng lực lãnh đạo, điều hành quản lý đất nước",
-      "D": "Bản lĩnh xã hội, phẩm chất đạo đức, năng lực lãnh đạo, điều hành quản lý đất nước"
+      "A": "Giai đoạn khủng hoảng",
+      "B": "Giai đoạn hòa bình thực sự",
+      "C": "Giai đoạn chiến tranh",
+      "D": "Giai đoạn cô lập"
     },
-    "answer": "B. Bản lĩnh chính trị, phẩm chất đạo đức, năng lực lãnh đạo, điều hành quản lý đất nước"
+    "answer": "Giai đoạn hòa bình thực sự"
   },
   {
     "id": 60,
-    "question": "Nhiệm vụ cấp bách, lâu dài của quá trình xây dựng Nhà nước pháp quyền xã hội chủ nghĩa ở nước ta là gì?",
+    "question": "Việc rút quân khỏi Campuchia đã phá vỡ điều gì?",
     "options": {
-      "A": "Phòng chống tham nhũng, lãng phí và thực hành tiết kiệm",
-      "B": "Miễn nhiệm những người không hoàn thành nhiệm vụ",
-      "C": "Nâng cao chất lượng đội ngũ cán bộ, công chức",
-      "D": "Có chính sách đãi ngộ, động viên, khuyến khích cán bộ, công chức"
+      "A": "Thế cân bằng khu vực",
+      "B": "Thế bao vây, cấm vận",
+      "C": "Quan hệ với Liên Xô",
+      "D": "Hệ thống quốc phòng"
     },
-    "answer": "A. Phòng chống tham nhũng, lãng phí và thực hành tiết kiệm"
+    "answer": "Thế bao vây, cấm vận"
   },
   {
     "id": 61,
-    "question": "Cần làm gì để tăng cường công tác giám sát, phản biện xã hội, phát huy quyền làm chủ của nhân dân ở nước ta?",
+    "question": "Câu trả lời cho câu hỏi 'Việt Nam đã thực sự hòa bình chưa sau năm 1986?' là gì?",
     "options": {
-      "A": "Công khai hóa, minh bạch hóa, dân chủ hóa về thông tin, chủ trương, chính sách của Đảng và Nhà nước",
-      "B": "Công khai hóa, pháp luật hóa chủ trương, chính sách của Đảng và Nhà nước",
-      "C": "Công khai hóa, thực thi hóa chủ trương, chính sách của Đảng, Nhà nước và của cả hệ thống chính trị",
-      "D": "Triển khai mạnh mẽ, đồng bộ hóa hệ thống pháp luật"
+      "A": "Có, ngay từ 1986",
+      "B": "Không, chỉ có hòa bình thực sự từ 1989",
+      "C": "Có, từ 1988",
+      "D": "Không, chỉ có hòa bình từ 1995"
     },
-    "answer": "A. Công khai hóa, minh bạch hóa, dân chủ hóa về thông tin, chủ trương, chính sách của Đảng và Nhà nước"
+    "answer": "Không, chỉ có hòa bình thực sự từ 1989"
   }
 ]
