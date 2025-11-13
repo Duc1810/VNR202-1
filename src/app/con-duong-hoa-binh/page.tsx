@@ -1,7 +1,5 @@
 "use client";
 
-import Image from "next/image";
-import Link from "next/link";
 import { Header } from "@/components/Header";
 import { Footer } from "@/components/Footer";
 import { useEffect, useState } from "react";
@@ -67,16 +65,16 @@ const others = [
 ];
 
 
-const democracyPillars = [
-  {
-    title: "Kết Luận: Hòa Bình Thực Sự Từ 1989",
-    paragraphs: [
-      "Giai đoạn 1989-1995 đã chứng minh rằng Việt Nam chỉ có hòa bình thực sự từ năm 1989 trở đi. Trước đó (1986-1989) là giai đoạn Đổi mới trong chiến tranh với nhiều thử thách an ninh. Từ 1989, với việc kết thúc xung đột và rút quân Campuchia, Việt Nam đã xây dựng được môi trường hòa bình ổn định, mở ra thời kỳ hội nhập và phát triển mới."
-    ],
-    image: "/assets/dan-chu/f2780d9086654d1f6434d66de101ec9fd7af9811.png",
-    reverse: false,
-  },
-];
+// const democracyPillars = [
+//   {
+//     title: "Kết Luận: Hòa Bình Thực Sự Từ 1989",
+//     paragraphs: [
+//       "Giai đoạn 1989-1995 đã chứng minh rằng Việt Nam chỉ có hòa bình thực sự từ năm 1989 trở đi. Trước đó (1986-1989) là giai đoạn Đổi mới trong chiến tranh với nhiều thử thách an ninh. Từ 1989, với việc kết thúc xung đột và rút quân Campuchia, Việt Nam đã xây dựng được môi trường hòa bình ổn định, mở ra thời kỳ hội nhập và phát triển mới."
+//     ],
+//     image: "/assets/dan-chu/f2780d9086654d1f6434d66de101ec9fd7af9811.png",
+//     reverse: false,
+//   },
+// ];
 
 export default function DemocracyPage() {
   const [isVisible, setIsVisible] = useState<{ [key: string]: boolean }>({});
