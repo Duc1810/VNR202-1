@@ -57,7 +57,7 @@ export function Chatbot() {
     setIsLoading(true);
 
     try {
-      const apiKey = process.env.NEXT_PUBLIC_GEMINI_API_KEY;
+      const apiKey = "AIzaSyCu_02K_wB7o7Xw_j80Ndmzyo9uq9hZl7I";
 
       if (!apiKey) {
         throw new Error("API key not configured");
