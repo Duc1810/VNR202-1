@@ -11,30 +11,35 @@ const steps = [
     copy: 'Theo Giáo trình Lịch sử Đảng, "cuộc chiến tranh chống xâm lược bảo vệ Tổ quốc ở biên giới phía Bắc kéo dài 10 năm, từ năm 1979 đến năm 1989." Trong ba năm đầu Đổi mới (1986-1989), Việt Nam vẫn trong tình trạng chiến tranh. Tình hình "Trên một số vùng biên giới phía Bắc diễn biến phức tạp, căng thẳng." Các tỉnh Cao Bằng, Lạng Sơn, Lào Cai thường xuyên xảy ra đụng độ. Trung Quốc duy trì áp lực quân sự, buộc Việt Nam phải duy trì lực lượng lớn ở biên giới thay vì tập trung cho phát triển kinh tế.',
     image: "https://llct.1cdn.vn/2019/06/25/lyluanchinhtri.vn-home-media-k2-items-cache-_de1232d0643fbdd326c1e015a0322df6_l.jpg",
     reverse: true,
+    src: "Chiến tranh biên giới phía Bắc"
   },
   {
     title: "Trận Hải Chiến Gạc Ma (14/3/1988)",
     copy: 'Vào tháng 3/1988, xảy ra "cao điểm nhất" của căng thẳng: Trung Quốc tấn công và chiếm Gạc Ma. Trung Quốc lấy cớ xây dựng trạm quan sát biển theo chương trình UNESCO. Ngày 14/3/1988, Trung Quốc đã "cho quân đội chiếm đảo Gạc Ma và các bãi cạn Châu Viên, Chữ Thập, Tư Nghĩa ở quần đảo Trường Sa." Trung Quốc sử dụng 3 tàu khu trục có hỏa lực mạnh tấn công tàu vận tải Việt Nam. 64 chiến sĩ Việt Nam hy sinh, phần lớn không có vũ khí nặng. 64 chiến sĩ hy sinh, 2 tàu vận tải bị đánh chìm (HQ-604, HQ-605), 1 tàu đổ bộ HQ-505 tự mắc cạn. Trung Quốc chiếm Gạc Ma và xây công sự. Liên Xô không can thiệp mặc dù có hiệp ước phòng thủ với Việt Nam và căn cứ hải quân tại Cam Ranh, chỉ cung cấp vũ khí và cố vấn, thậm chí từ chối gửi tàu tiếp tế.',
     image: "https://imgnvsk.vnanet.vn/MediaUpload/Medium/2024/03/12/312-10-7-32.jpg",
     reverse: true,
+    src: "Hải chiến Gạc Ma"
   },
   {
     title: "Vấn Đề Campuchia: Mấu Chốt Bao Vây",
     copy: 'Vấn đề Campuchia là "mấu chốt khiến Việt Nam bị cô lập" quốc tế. Việt Nam đưa quân vào Campuchia (25/12/1978) để lật đổ Khmer Đỏ diệt chủng. Mặc dù chấm dứt thảm sát, nhưng Mỹ, Trung Quốc, ASEAN coi đây là "xâm lược" và áp đặt bao vây. Để phá thế bị bao vây: Tháng 5/1988 rút 50,000 quân về nước; 9/1989 rút hết quân tình nguyện. Đây là bước ngoặt then chốt, phá vỡ thế bao vây, mở đường bình thường hóa với Trung Quốc (1991) và Mỹ (1995).',
     image: "https://file3.qdnd.vn/data/images/0/2024/11/18/upload_2326/chien-dich-dong-bac-campuchia-1971.jpg?dpi=150&quality=100&w=870",
     reverse: true,
+    src: "Chiến tranh Campuchia"
   },
   {
     title: "Hoạt Động Chống Phá",
     copy: 'Các thế lực thù địch không chỉ bao vây, cấm vận mà còn "dung dưỡng các tổ chức phản động người Việt từ nước ngoài trở về Việt Nam gây bạo loạn, lật đổ." Họ lợi dụng khó khăn kinh tế để kích động bất ổn xã hội và chống phá chính quyền.',
     image: "https://file3.qdnd.vn/data/images/0/2025/04/20/upload_2237/15.png?dpi=150&quality=100&w=870",
     reverse: true,
+    src: "Đại thắng mùa xuân 1975"
   },
   {
     title: "Đổi Mới Bất Chấp Thách Thức",
     copy: 'Điều đáng kinh ngạc là giữa những thách thức an ninh nghiêm trọng, Việt Nam vẫn kiên trì đổi mới. Nghị quyết số 10-NQ/TW về "Đổi mới quản lý kinh tế nông nghiệp" (Khoán 10) ra đời 5/4/1988, chỉ 3 tuần sau trận Gạc Ma. Kết quả: Lạm phát giảm từ 774% (1986) xuống 67,1% (1991), từ nhập 450,000 tấn gạo (1988) thành xuất khẩu (1989).',
     image: "https://ordi.vn/wp-content/uploads/2021/10/%C4%90%E1%BA%A1i-h%E1%BB%99i-%C4%91%E1%BA%A1i-bi%E1%BB%83u-to%C3%A0n-qu%E1%BB%91c-l%E1%BA%A7n-th%E1%BB%A9-VI-c%E1%BB%A7a-%C4%90%E1%BA%A3ng-12-1986.-%E1%BA%A2nh-T%C6%B0-li%E1%BB%87u..jpg",
     reverse: true,
+    src: "Đại hội VI"
   },
 ];
 
@@ -145,6 +150,9 @@ export default function PromoteDemocracyPage() {
               height={600}
               className="relative h-auto w-full rounded-2xl shadow-2xl border-4 border-[#f35e53]/20 transform group-hover:scale-105 transition-all duration-500"
             />
+            <p className="absolute bottom-2 left-2 text-xs text-white/80 bg-black/40 px-2 py-1 rounded">
+              Chiến tranh biên giới phía Bắc
+            </p>
           </div>
         </section>
 
@@ -189,6 +197,9 @@ export default function PromoteDemocracyPage() {
                       height={600}
                       className="relative h-auto w-full rounded-2xl shadow-2xl border-2 border-white/10 transform group-hover:scale-105 transition-all duration-500"
                     />
+                    <p className="absolute bottom-2 left-2 text-xs text-white/80 bg-black/40 px-2 py-1 rounded">
+                      {step.src}
+                    </p>
                   </div>
                 </>
               ) : (
@@ -202,6 +213,9 @@ export default function PromoteDemocracyPage() {
                       height={600}
                       className="relative h-auto w-full rounded-2xl shadow-2xl border-2 border-white/10 transform group-hover:scale-105 transition-all duration-500"
                     />
+                    <p className="absolute bottom-2 left-2 text-xs text-white/80 bg-black/40 px-2 py-1 rounded">
+                      {step.src}
+                    </p>
                   </div>
                   <div className="backdrop-blur-sm bg-linear-to-br from-black/60 to-black/40 p-10 rounded-3xl border border-white/10 shadow-2xl">
                     <div className="flex items-center gap-4 mb-6">
@@ -299,6 +313,9 @@ export default function PromoteDemocracyPage() {
                 height={800}
                 className="relative mb-20 h-auto w-full min-w-xl rounded-2xl border-2 border-white/10 shadow-2xl transform group-hover:scale-105 transition-all duration-500"
               />
+              <p className="absolute top-2 left-2 text-xs text-white/80 bg-black/40 px-2 py-1 rounded">
+                Việt Nam thời bao cấp
+              </p>
               <img
                 src="https://media.baoquangninh.vn/dataimages/202009/original/images1418831_2.jpg"
                 alt="Người dân lao động"
@@ -306,6 +323,9 @@ export default function PromoteDemocracyPage() {
                 height={800}
                 className="relative h-auto w-full min-w-xl rounded-2xl border-2 border-white/10 shadow-2xl transform group-hover:scale-105 transition-all duration-500"
               />
+              <p className="absolute bottom-2 left-2 text-xs text-white/80 bg-black/40 px-2 py-1 rounded">
+                Việt Nam thời bao cấp
+              </p>
             </div>
           </div>
         </section>

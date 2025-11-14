@@ -20,6 +20,7 @@ const HERO_SLIDES = [
     ],
     link: "/tinh-hinh-truoc-1986",
     image: "https://media.baovanhoa.vn/zoom/1000/Portals/0/EasyDNNNews/46969/Hoi-ng%E1%BB%8B.jpeg",
+    src: "Hội nghị lần thứ XI"
   },
   {
     id: 2,
@@ -34,6 +35,7 @@ const HERO_SLIDES = [
     ],
     link: "xung-dot-1986-1989",
     image: "https://cdn.baogialai.com.vn/images/5d93661b5836672daa8629aec90c6a0b638684c14ba63cd3af4591d1d5647c3c9fcde911ce9a835902714152051a7e19e6f2cf52881f966ba2ceaf83b7539c4c/images2764628_21.jpg",
+    src: "Thời bao cấp"
   },
   {
     id: 3,
@@ -45,6 +47,7 @@ const HERO_SLIDES = [
     ],
     link: "/con-duong-hoa-binh",
     image: "https://media-vasi.mae.gov.vn/Image/cb256589-484e-4216-987c-1a4ad30dae3a/2025/4/28/image_d8b6f61355.png",
+    src: "Việt Nam hòa bình"
   },
 ];
 
@@ -169,6 +172,12 @@ export default function Home() {
                         alt={slide.title}
                         className="object-cover"
                       />
+
+                      {/* Source text below image */}
+                      <p className="absolute bottom-2 left-2 text-xs !text-white bg-black/40 px-2 py-1 rounded">
+                        {slide.src}
+                      </p>
+
                       <div className="absolute inset-0 bg-linear-to-t from-black/60 via-transparent to-transparent"></div>
                     </div>
                   </div>
@@ -259,6 +268,9 @@ export default function Home() {
                   height={900}
                   className="h-auto w-full rounded-2xl transition-transform duration-500 group-hover:scale-105"
                 />
+                <p className="absolute bottom-2 left-2 text-xs text-white/80 bg-black/40 px-2 py-1 rounded">
+                  Đại hội VIII
+                </p>
               </div>
 
               <div className="space-y-6">
@@ -399,6 +411,9 @@ export default function Home() {
                   height={600}
                   className="h-auto w-full rounded-2xl transition-transform duration-500 group-hover:scale-105"
                 />
+                <p className="absolute bottom-2 left-2 text-xs text-white/80 bg-black/40 px-2 py-1 rounded">
+                  Chiến thắng chế độ diệt chủng PolPot
+                </p>
               </div>
             </div>
           </section>
@@ -415,6 +430,9 @@ export default function Home() {
                   height={900}
                   className="h-auto w-full rounded-2xl transition-transform duration-500 group-hover:scale-105"
                 />
+                <p className="absolute bottom-2 left-2 text-xs text-white/80 bg-black/40 px-2 py-1 rounded">
+                  Việt Nam hòa bình sau chiến tranh
+                </p>
               </div>
 
               <div className="space-y-6">

@@ -12,30 +12,39 @@ const steps = [
     copy: 'Năm 1989 đánh dấu chấm dứt cuộc chiến tranh biên giới kéo dài 10 năm (1979-1989). Tình hình biên giới phía Bắc trở nên ổn định, các cuộc đụng độ giảm đáng kể. Việc kết thúc xung đột này giải phóng nguồn lực quốc phòng để tập trung cho phát triển kinh tế và đối ngoại. Từ đây, Việt Nam mới có môi trường an ninh thực sự để thực hiện đổi mới và mở cửa. Key achievements: Ổn định tình hình an ninh biên giới phía Bắc; Giảm chi phí quốc phòng, tăng ngân sách phát triển kinh tế; Tạo tiền đề cho bình thường hóa quan hệ với Trung Quốc',
     image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnRqItZKTbcwFpUdRuBMI3Rw-bFsvgof0A3w&s",
     reverse: true,
+    src: "Kết thúc chiến trang biên giới"
   },
   {
     title: "Hoàn Tất Rút Quân Khỏi Campuchia (9/1989)",
     copy: 'Ngày 26 tháng 9 năm 1989, Việt Nam hoàn tất việc rút toàn bộ quân tình nguyện khỏi Campuchia. Đây là quyết định chiến lược quan trọng nhất, phá vỡ "mấu chốt" gây ra sự bao vây quốc tế. Mặc dù có rủi ro về an ninh khu vực, Việt Nam đã ưu tiên hòa bình và hợp tác quốc tế. Quyết định này mở đường cho việc giải quyết xung đột Campuchia bằng chính trị. Key achievements: Rút hoàn toàn 50,000 quân tình nguyện (từ 5/1988 đến 9/1989); Phá vỡ cớ để các nước bao vây, cấm vận Việt Nam; Mở đường cho Hiệp định Paris về Campuchia (23/10/1991)',
     image: "https://cdn-i.vtcnews.vn/files/thuylinh/2019/09/26/vietnam-6-1252224-7-1347191.jpg",
     reverse: true,
+    src: "Rút quân khỏi Campuchia"
+
   },
   {
     title: "Bình Thường Hóa Quan Hệ Việt-Trung (11/1991)",
     copy: 'Ngày 3-5 tháng 11 năm 1991, Tổng Bí thư Đỗ Mười thăm Trung Quốc, chính thức bình thường hóa quan hệ sau 12 năm đối đầu. Đây là thành tựu ngoại giao quan trọng, chấm dứt thù địch và mở ra hợp tác kinh tế. Quan hệ Việt-Trung từ xung đột chuyển sang đối tác chiến lược, tạo nền tảng ổn định cho khu vực và phát triển kinh tế. Key achievements: Chấm dứt 12 năm đối đầu (1979-1991); Khôi phục quan hệ kinh tế, thương mại; Tạo nền tảng cho ổn định khu vực Đông Nam Á',
     image: "https://kinhtevadubao.vn/stores/news_dataimages/kinhtevadubaovn/112015/04/11/dua-quan-he-viet-trung-len-tam-cao-moi-19-.7536.jpg",
     reverse: true,
+    src: "Quan hệ Việt-Trung"
+
   },
   {
     title: "Bình Thường Hóa Quan Hệ Việt-Mỹ (7/1995)",
     copy: 'Ngày 11 tháng 7 năm 1995, Tổng thống Bill Clinton tuyên bố bình thường hóa quan hệ ngoại giao Việt-Mỹ. Đây là bước ngoặt lịch sử, chấm dứt 20 năm thù địch sau chiến tranh. Việt Nam đã hợp tác tích cực trong vấn đề MIA (quân nhân Mỹ mất tích), thể hiện thiện chí và trách nhiệm. Bình thường hóa mở ra thời kỳ hợp tác toàn diện với siêu cường số 1 thế giới. Key achievements: Chấm dứt cấm vận kinh tế từ 1975; Mở ra đầu tư, thương mại với thị trường lớn nhất thế giới; Thúc đẩy hội nhập kinh tế toàn cầu',
     image: "https://vnanet.vn/Data/Articles/2019/07/02/3951898/vna_potal_ky_niem_24_nam_ngay_binh_thuong_hoa_quan_he_ngoai_giao_viet_nam_%E2%80%93_hoa_ky_1171995_%E2%80%93_1172019_%E2%80%9Cgac_lai_qua_khu_vuot_qua_khac_bi_195529143_stand.jpg",
     reverse: true,
+    src: "Quan hệ Việt-Mỹ"
+
   },
   {
     title: "Gia Nhập ASEAN (28/7/1995)",
     copy: 'Ngày 28 tháng 7 năm 1995, Việt Nam chính thức trở thành thành viên thứ 7 của ASEAN tại Hội nghị Bộ trưởng Ngoại giao ASEAN lần thứ 28 ở Brunei. Đây là thành tựu đối ngoại quan trọng nhất, đánh dấu sự công nhận toàn diện của cộng đồng quốc tế. Từ một nước bị bao vây, Việt Nam đã trở thành thành viên của tổ chức khu vực quan trọng nhất. Key achievements: Kết thúc hoàn toàn tình trạng bị cô lập quốc tế; Hội nhập vào cộng đồng kinh tế khu vực; Tham gia đầy đủ các cơ chế hợp tác quốc tế',
     image: "https://vnanet.vn/Data/Articles/2024/07/26/7504285/vna_potal_29_nam_viet_nam_gia_nhap_asean_2871995_%E2%80%93_2872024_viet_nam_dong_gop_tich_cuc_vao_su_phat_trien_va_thanh_cong_cua_asean_stand.jpg",
     reverse: true,
+    src: "Việt Nam gia nhập ASEAN"
+
   },
 ];
 
@@ -45,38 +54,36 @@ const others = [
     copy: 'Việt Nam đã nhất quán thực hiện đường lối ưu tiên hòa bình, ổn định. Quyết định rút quân khỏi Campuchia mặc dù còn nhiều rủi ro, chấp nhận nhượng bộ để bình thường hóa quan hệ, thể hiện nguyên tắc này. Hòa bình không chỉ là vắng mặt chiến tranh mà còn là môi trường hợp tác, phát triển bền vững cho tất cả các bên.',
     image: "https://bcp.cdnchinhphu.vn/334894974524682240/2024/10/11/hoi-dam-voi-ttg-lao-1728649438121722988059.jpg",
     reverse: true,
+    src: "Quan hệ Việt-Lào"
+
   },
   {
     title: "Bảo Vệ Độc Lập, Chủ Quyền",
     copy: 'Trong quá trình bình thường hóa và hội nhập, Việt Nam luôn giữ vững nguyên tắc độc lập, chủ quyền. Không chấp nhận bất cứ điều kiện nào ảnh hưởng đến độc lập chính trị, không đánh đổi chủ quyền quốc gia để lấy lợi ích kinh tế. Đây là cơ sở để xây dựng quan hệ bình đẳng với tất cả các nước.',
     image: "https://file3.qdnd.vn/data/images/0/2024/02/25/upload_2072/chuquyen.jpg",
     reverse: true,
+    src: "Việt Nam nhất quán thực thi và bảo vệ chủ quyền một cách hòa bình"
+
   },
   {
     title: "Hợp Tác Cùng Có Lợi",
     copy: 'Việt Nam theo đuổi quan hệ hợp tác cùng có lợi với tất cả các nước, không phân biệt chế độ chính trị. Sẵn sàng hợp tác về kinh tế, thương mại, đầu tư với các nước từng thù địch. Nguyên tắc này giúp Việt Nam nhanh chóng hội nhập và trở thành đối tác tin cậy của cộng đồng quốc tế.',
     image: "https://images2.thanhnien.vn/528068263637045248/2023/12/8/vuong-dinh-hue-1702048680587348087908.jpg",
     reverse: true,
+    src: "Quan hệ Việt-Thái"
+
   },
   {
     title: "Phát Triển Kinh Tế Là Trọng Tâm",
     copy: 'Tất cả các hoạt động đối ngoại đều phục vụ mục tiêu phát triển kinh tế. Việt Nam ưu tiên thu hút đầu tư, chuyển giao công nghệ, mở rộng thị trường xuất khẩu. Nguyên tắc này đảm bảo hòa bình không chỉ là mục đích mà còn là phương tiện để phát triển đất nước.',
     image: "https://bcp.cdnchinhphu.vn/334894974524682240/2025/5/12/3-1747043543794437241652.png",
     reverse: true,
+    src: "Việt Nam kiên cường vượt thử thách, tự tin bước vào giai đoạn phát triển mới"
+
   },
 ];
 
 
-const democracyPillars = [
-  {
-    title: "Kết Luận: Hòa Bình Thực Sự Từ 1989",
-    paragraphs: [
-      "Giai đoạn 1989-1995 đã chứng minh rằng Việt Nam chỉ có hòa bình thực sự từ năm 1989 trở đi. Trước đó (1986-1989) là giai đoạn Đổi mới trong chiến tranh với nhiều thử thách an ninh. Từ 1989, với việc kết thúc xung đột và rút quân Campuchia, Việt Nam đã xây dựng được môi trường hòa bình ổn định, mở ra thời kỳ hội nhập và phát triển mới."
-    ],
-    image: "/assets/dan-chu/f2780d9086654d1f6434d66de101ec9fd7af9811.png",
-    reverse: false,
-  },
-];
 
 export default function DemocracyPage() {
   const [isVisible, setIsVisible] = useState<{ [key: string]: boolean }>({});
@@ -152,6 +159,9 @@ export default function DemocracyPage() {
                 height={600}
                 className="relative h-auto w-full rounded-2xl shadow-2xl border-2 border-white/10 transform group-hover:scale-105 transition-all duration-500"
               />
+              <p className="absolute bottom-2 left-2 text-xs text-white/80 bg-black/40 px-2 py-1 rounded">
+                Thành phố vì hòa bình ngàn năm văn hiến
+              </p>
             </div>
 
             <div className="space-y-6">
@@ -170,27 +180,25 @@ export default function DemocracyPage() {
               key={step.title}
               id={`step-${index}`}
               data-animate
-              className={`grid items-center gap-12 lg:grid-cols-2 transition-all duration-1000 ${isVisible[`step-${index}`]
-                ? "opacity-100 scale-100"
-                : "opacity-0 scale-95"
+              className={`grid items-center text-center justify-center gap-12 lg:grid-cols-2 transition-all duration-1000 ${isVisible[`step-${index}`] ? "opacity-100 scale-100" : "opacity-0 scale-95"
                 }`}
             >
               {step.reverse ? (
                 <>
                   <div className="lg:order-last backdrop-blur-sm bg-linear-to-br from-black/60 to-black/40 p-10 rounded-3xl border border-white/10 shadow-2xl">
                     <div className="flex items-center gap-4 mb-6">
-                      <div className="flex items-center justify-center w-16 h-16 rounded-2xl bg-linear-to-br from-[#f35e53] to-[#ffcccc] shadow-lg">
+                      {/* <div className="flex items-center justify-center w-16 h-16 rounded-2xl bg-linear-to-br from-[#f35e53] to-[#ffcccc] shadow-lg">
                         <span className="font-inter text-2xl font-extrabold text-black">
                           {index + 1}
                         </span>
-                      </div>
+                      </div> */}
                       <h2 className="font-quicksand text-4xl lg:text-5xl font-extrabold text-white">
                         <span className="bg-linear-to-r from-[#f35e53] to-[#ffcccc] bg-clip-text text-transparent">
                           {step.title}
                         </span>
                       </h2>
                     </div>
-                    <div className="h-1 w-20 bg-linear-to-r from-[#f35e53] to-transparent rounded-full mb-6"></div>
+                    {/* <div className="h-1 w-20 bg-linear-to-r from-[#f35e53] to-transparent rounded-full mb-6"></div> */}
                     <p className="font-quicksand text-lg font-medium text-[#d9d9d9]/90 leading-relaxed">
                       {step.copy}
                     </p>
@@ -204,6 +212,9 @@ export default function DemocracyPage() {
                       height={600}
                       className="relative h-auto w-full rounded-2xl shadow-2xl border-2 border-white/10 transform group-hover:scale-105 transition-all duration-500"
                     />
+                    <p className="absolute bottom-2 left-2 text-xs text-white/80 bg-black/40 px-2 py-1 rounded">
+                      {step.src}
+                    </p>
                   </div>
                 </>
               ) : (
@@ -217,6 +228,9 @@ export default function DemocracyPage() {
                       height={600}
                       className="relative h-auto w-full rounded-2xl shadow-2xl border-2 border-white/10 transform group-hover:scale-105 transition-all duration-500"
                     />
+                    <p className="absolute bottom-2 left-2 text-xs text-white/80 bg-black/40 px-2 py-1 rounded">
+                      {step.src}
+                    </p>
                   </div>
                   <div className="backdrop-blur-sm bg-linear-to-br from-black/60 to-black/40 p-10 rounded-3xl border border-white/10 shadow-2xl">
                     <div className="flex items-center gap-4 mb-6">
@@ -292,6 +306,9 @@ export default function DemocracyPage() {
                       height={600}
                       className="relative h-auto w-full rounded-2xl shadow-2xl border-2 border-white/10 transform group-hover:scale-105 transition-all duration-500"
                     />
+                    <p className="absolute bottom-2 left-2 text-xs text-white/80 bg-black/40 px-2 py-1 rounded">
+                      {other.src}
+                    </p>
                   </div>
                 </>
               ) : (
@@ -305,6 +322,9 @@ export default function DemocracyPage() {
                       height={600}
                       className="relative h-auto w-full rounded-2xl shadow-2xl border-2 border-white/10 transform group-hover:scale-105 transition-all duration-500"
                     />
+                    <p className="absolute bottom-2 left-2 text-xs text-white/80 bg-black/40 px-2 py-1 rounded">
+                      {other.src}
+                    </p>
                   </div>
                   <div className="backdrop-blur-sm bg-linear-to-br from-black/60 to-black/40 p-10 rounded-3xl border border-white/10 shadow-2xl">
                     <div className="flex items-center gap-4 mb-6">
@@ -361,6 +381,9 @@ export default function DemocracyPage() {
                 height={600}
                 className="relative h-auto w-full rounded-2xl shadow-2xl border-2 border-white/10 transform group-hover:scale-105 transition-all duration-500"
               />
+              <p className="absolute bottom-2 left-2 text-xs text-white/80 bg-black/40 px-2 py-1 rounded">
+                46 năm chiến thắng chế độ diệt chủng Khmer Đỏ
+              </p>
             </div>
           </div>
         </section>

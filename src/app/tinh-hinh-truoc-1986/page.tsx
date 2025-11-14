@@ -97,6 +97,9 @@ export default function SocialistStatePage() {
                 height={1000}
                 className="mt-50 relative h-auto w-full min-w-xl rounded-2xl shadow-2xl border-4 border-[#f35e53]/20 transform group-hover:scale-105 transition-all duration-500"
               />
+              <p className="absolute bottom-2 left-2 text-xs text-white/80 bg-black/40 px-2 py-1 rounded">
+                Đại hội VI
+              </p>
             </div>
           </div>
         </section>
@@ -158,6 +161,9 @@ export default function SocialistStatePage() {
                 height={800}
                 className="relative mb-20 h-auto w-full min-w-xl rounded-2xl border-2 border-white/10 shadow-2xl transform group-hover:scale-105 transition-all duration-500"
               />
+              <p className="absolute top-2 left-2 text-xs text-white/80 bg-black/40 px-2 py-1 rounded">
+                Việt Nam thời bao cấp
+              </p>
               <img
                 src="https://media.baoquangninh.vn/dataimages/202009/original/images1418831_2.jpg"
                 alt="Người dân lao động"
@@ -165,6 +171,9 @@ export default function SocialistStatePage() {
                 height={800}
                 className="relative h-auto w-full min-w-xl rounded-2xl border-2 border-white/10 shadow-2xl transform group-hover:scale-105 transition-all duration-500"
               />
+              <p className="absolute bottom-2 left-2 text-xs text-white/80 bg-black/40 px-2 py-1 rounded">
+                Việt Nam thời bao cấp
+              </p>
             </div>
           </div>
         </section>
@@ -262,6 +271,9 @@ export default function SocialistStatePage() {
                 height={1000}
                 className="relative h-auto w-full min-w-xl shadow-2xl rounded-2xl border-2 border-white/10 transform group-hover:scale-105 transition-all duration-500"
               />
+              <p className="absolute bottom-2 left-2 text-xs text-white/80 bg-black/40 px-2 py-1 rounded">
+                Tổng bí thư Nguyễn Văn Linh
+              </p>
             </div>
           </div>
         </section>
