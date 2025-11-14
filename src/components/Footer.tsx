@@ -56,7 +56,7 @@ export function Footer({
               </span>
             </Link>
             <p className="mt-4 text-sm text-white/90">
-              Dự án nghiên cứu lịch sử Việt Nam giai đoạn 1986-1995, tập trung vào câu hỏi: "Nước ta đã thực sự hòa bình chưa sau năm 1986?" Qua phân tích tài liệu lịch sử và các sự kiện quan trọng, dự án đưa ra câu trả lời dựa trên bằng chứng khoa học và góc nhìn khách quan.
+              Dự án nghiên cứu lịch sử Việt Nam giai đoạn 1986-1995, tập trung vào câu hỏi: {"Nước ta đã thực sự hòa bình chưa sau năm 1986?"} Qua phân tích tài liệu lịch sử và các sự kiện quan trọng, dự án đưa ra câu trả lời dựa trên bằng chứng khoa học và góc nhìn khách quan.
             </p>
           </div>
           <div>

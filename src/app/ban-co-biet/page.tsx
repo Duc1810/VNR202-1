@@ -1,6 +1,5 @@
 "use client";
 
-import Image from "next/image";
 import { Header } from "@/components/Header";
 import { Footer } from "@/components/Footer";
 import { useState, useEffect } from "react";
@@ -144,7 +143,7 @@ export default function DidYouKnowPage() {
             <div className="h-1.5 w-48 bg-linear-to-r from-transparent via-[#f35e53] to-transparent rounded-full mx-auto mb-8"></div>
 
             <p className="font-quicksand text-xl lg:text-2xl font-medium text-[#d9d9d9]/90 max-w-3xl mx-auto leading-relaxed">
-              Giai đoạn từ 1986 đến 1995 không chỉ là thời kỳ Đổi mới mà còn là thời kỳ đầy thử thách về an ninh và chủ quyền. Dưới đây là những sự thật lịch sử quan trọng giúp bạn hiểu rõ hơn về câu hỏi: "Việt Nam đã thực sự hòa bình chưa sau năm 1986?"
+              Giai đoạn từ 1986 đến 1995 không chỉ là thời kỳ Đổi mới mà còn là thời kỳ đầy thử thách về an ninh và chủ quyền. Dưới đây là những sự thật lịch sử quan trọng giúp bạn hiểu rõ hơn về câu hỏi:  {'"Việt Nam đã thực sự hòa bình chưa sau năm 1986?"'}
             </p>
           </div>
         </section>
