@@ -554,6 +554,9 @@ export default function Home() {
                   height={600}
                   className="h-auto w-full rounded-2xl"
                 />
+                <p className="absolute bottom-2 left-2 text-xs text-white/80 bg-black/40 px-2 py-1 rounded">
+                  Poster tuyển truyền chủ quyền biển đảo Việt Nam
+                </p>
               </div>
 
               <div className="space-y-6">
