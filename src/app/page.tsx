@@ -548,7 +548,7 @@ export default function Home() {
             <div className="relative grid items-center gap-12 lg:grid-cols-2">
               <div className="relative overflow-hidden rounded-2xl">
                 <img
-                  src="https://icdn.dantri.com.vn/k:2015/31ef3988d1e9c16c29bf1e7f6958cb60-1445734976678/de-hoang-sa-truong-sa-luon-hien-dien-trong-tim-moi-nguoi-dan-viet.jpg"
+                  src="https://media.thuonghieucongluan.vn/uploads/2024/04/30/unnamed-1-1714470305.jpg"
                   alt="Minh hoạ dịch vụ công nghệ"
                   width={900}
                   height={600}
